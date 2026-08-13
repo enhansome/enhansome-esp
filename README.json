@@ -1,0 +1,1221 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MicroPython",
+          "description": "An implemention of Python3 for the ESP8266 and 32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T03:40:14Z",
+            "owner": "micropython",
+            "repo": "micropython",
+            "stars": 21986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RT-Thread",
+          "description": "Chinese open source firmware available for the ESP32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T01:40:55Z",
+            "owner": "RT-Thread",
+            "repo": "rt-thread",
+            "stars": 12147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NodeMCU",
+          "description": "An eLua-based firmware for the ESP8266.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-07T14:37:16Z",
+            "owner": "nodemcu",
+            "repo": "nodemcu-firmware",
+            "stars": 7939
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MongooseOS",
+          "description": "An IoT specific firmware, with both C and JS. Available for the ESP32/8266.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-26T11:38:40Z",
+            "owner": "cesanta",
+            "repo": "mongoose-os",
+            "stars": 2661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESP3D",
+          "description": "An experimental firmware for 3D Printers, both the ESP32 and 8266.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-22T03:30:47Z",
+            "owner": "luc-github",
+            "repo": "ESP3D",
+            "stars": 1988
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sming Framework",
+          "description": "Superb C/C++ IoT Framework with support for ESP8266 and ESP32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-20T08:21:00Z",
+            "owner": "SmingHub",
+            "repo": "Sming",
+            "stars": 1569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frankenstein",
+          "description": "A quick and dirty firmware with cool features for the ESP8266.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-06-03T08:38:24Z",
+            "owner": "nekromant",
+            "repo": "esp8266-frankenstein",
+            "stars": 326
+          }
+        }
+      ],
+      "title": "Firmware"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Arduino Core/32",
+          "description": "The other Arduino core for the ESP32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T02:43:48Z",
+            "owner": "espressif",
+            "repo": "arduino-esp32",
+            "stars": 17225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arduino Core/8266",
+          "description": "The Arduino core for the ESP8266.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-29T14:21:18Z",
+            "owner": "esp8266",
+            "repo": "Arduino",
+            "stars": 16663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PlatformIO",
+          "description": "Cross Platform IDE and Debugger that supports both the ESP32 and ESP8266.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T17:20:40Z",
+            "owner": "platformio",
+            "repo": "platformio-core",
+            "stars": 9398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESPTool",
+          "description": "Espressif's command line tool for bootloader comms in both ESP's.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T14:06:51Z",
+            "owner": "espressif",
+            "repo": "esptool",
+            "stars": 6438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tuya-Convert",
+          "description": "A Wi-Fi firmware flasher ESP8266 that has been pre-loaded with Tuya firmware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-06T16:02:36Z",
+            "owner": "ct-Open-Source",
+            "repo": "tuya-convert",
+            "stars": 5074
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NodeMCU Flasher",
+          "description": "The official flashing tool for the NodeMCU OS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2017-08-08T13:41:36Z",
+            "owner": "nodemcu",
+            "repo": "nodemcu-flasher",
+            "stars": 2216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESP-Open-SDK",
+          "description": "An open SDK for the ESP8266.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2022-01-12T01:11:42Z",
+            "owner": "pfalcon",
+            "repo": "esp-open-sdk",
+            "stars": 1988
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tasmotizer",
+          "description": "A graphical flashing tool for Tasmota firmware. Can manage Wi-Fi & MQTT settings, modules & templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-30T18:25:44Z",
+            "owner": "tasmota",
+            "repo": "tasmotizer",
+            "stars": 1538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LuaNode",
+          "description": "A lua-only SDK for 32/8266.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-30T07:24:08Z",
+            "owner": "Nicholas3388",
+            "repo": "LuaNode",
+            "stars": 1329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arduino FS Plugin",
+          "description": "An Arduino plugin for filesystem uploads in the 8266.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-11-30T15:03:52Z",
+            "owner": "esp8266",
+            "repo": "arduino-esp8266fs-plugin",
+            "stars": 738
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESPTool-ck",
+          "description": "A CLI tool for flashing in the ESP8266.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-12-21T10:12:59Z",
+            "owner": "igrr",
+            "repo": "esptool-ck",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESPTool-gui",
+          "description": "A flashing GUI tool based on ESPTool-ck.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-09-19T22:19:09Z",
+            "owner": "Rodmg",
+            "repo": "esptool-gui",
+            "stars": 204
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenMQTTGateway",
+          "description": "An implementation of a multiprotocol MQTT gateway for both ESP's among other devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T11:33:26Z",
+            "owner": "1technophile",
+            "repo": "OpenMQTTGateway",
+            "stars": 4074
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESPEasy",
+          "description": "Easily turn ESP modules into multifunction sensor devices for home automation systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T19:10:43Z",
+            "owner": "letscontrolit",
+            "repo": "ESPEasy",
+            "stars": 3553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonoff-Homekit",
+          "description": "An alternative firmware for Sonoff devices (and other 8266 devices) which allows control through Apple's Homekit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-04-16T17:09:50Z",
+            "owner": "Gruppio",
+            "repo": "Sonoff-Homekit",
+            "stars": 1004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HomePoint",
+          "description": "Control MQTT/HomeKit smart home devices from an ESP32-powered screen.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-08-04T13:41:38Z",
+            "owner": "sieren",
+            "repo": "Homepoint",
+            "stars": 658
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperGreenOS",
+          "description": "A full-featured home farming automation software for the ESP32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-05T09:43:44Z",
+            "owner": "supergreenlab",
+            "repo": "SuperGreenOS",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EPaperWeatherDisplay",
+          "description": "A very cute e-ink weather display using the ESP32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-10-31T11:02:07Z",
+            "owner": "henri98",
+            "repo": "esp32-e-paper-weatherdisplay",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CanAirIO",
+          "description": "Citizen science project that uses mobile and fixed stations to measure air quality with ESP32 and smartphones.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T17:20:43Z",
+            "owner": "kike-canaries",
+            "repo": "canairio_firmware",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DoorsignEPD",
+          "description": "A smart doorsign with an E-Paper display using the ESP32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-09-29T11:46:55Z",
+            "owner": "jamct",
+            "repo": "DoorsignEPD",
+            "stars": 103
+          }
+        }
+      ],
+      "title": "Smart Home and IoT"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ESP8266 Deauther",
+          "description": "A very cool pseudojammer (deauther) of Wifi networks that uses the ESP8266.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-08-14T17:38:08Z",
+            "owner": "SpacehuhnTech",
+            "repo": "esp8266_deauther",
+            "stars": 14914
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESP32Marauder",
+          "description": "An integrated suite of offensive and defensive tools for WiFi and Bluetooth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T19:21:37Z",
+            "owner": "justcallmekoko",
+            "repo": "ESP32Marauder",
+            "stars": 11938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WiFiDuck",
+          "description": "A wireless-enabled keystroke injector, analogous, but even more awesome than the Rubber Ducky.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-06-02T14:03:39Z",
+            "owner": "SpacehuhnTech",
+            "repo": "WiFiDuck",
+            "stars": 3119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESP8266 Beacon Spam",
+          "description": "Want to confuse people? This device creates hundreds of fake WiFi networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-08T19:55:26Z",
+            "owner": "spacehuhn",
+            "repo": "esp8266_beaconSpam",
+            "stars": 1357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeauthDetector",
+          "description": "A small device that shines a light if it detects a WiFi deauth attack. Made by the same guy as the last six projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-08-28T12:56:53Z",
+            "owner": "SpacehuhnTech",
+            "repo": "DeauthDetector",
+            "stars": 969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArduinoPcap",
+          "description": "A library which allows generation of .pcap files with network traffic, for both ESP's.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-03-03T15:26:50Z",
+            "owner": "spacehuhn",
+            "repo": "ArduinoPcap",
+            "stars": 462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PacketMonitor",
+          "description": "A beautiful OLED monitor for packet activity in a WiFi channel. Two versions for each ESP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-11-20T10:38:02Z",
+            "owner": "spacehuhn",
+            "repo": "PacketMonitor32",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESP32-BLECollector",
+          "description": "A wardriving device which displays BLE devices and collects data from them, all in a nice screen interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-09-04T10:51:05Z",
+            "owner": "tobozo",
+            "repo": "ESP32-BLECollector",
+            "stars": 361
+          }
+        }
+      ],
+      "title": "InfoSec"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Squeezelite-esp32",
+          "description": "Streaming audio receiver with multi-room sync, AirPlay, Bluetooth, hardware buttons, display and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-30T12:15:10Z",
+            "owner": "sle118",
+            "repo": "squeezelite-esp32",
+            "stars": 2151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESP32-Radio",
+          "description": "Internet radio based on ESP32, VS1053 and a TFT screen.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-10-21T09:34:05Z",
+            "owner": "Edzelf",
+            "repo": "ESP32-Radio",
+            "stars": 1064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PedalinoMini",
+          "description": "A wireless MIDI pedal controller for guitarists, built with the ESP32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-04T07:48:59Z",
+            "owner": "alf45tar",
+            "repo": "PedalinoMini",
+            "stars": 612
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESPuino",
+          "description": "RFID-controlled music player powered by ESP32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T13:26:42Z",
+            "owner": "biologist79",
+            "repo": "ESPuino",
+            "stars": 416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alles",
+          "description": "A many speaker distributed music synthesizer using UDP multicast over WiFi, modeled after the alles machine/AMY.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-11-04T15:35:56Z",
+            "owner": "shorepine",
+            "repo": "alles",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThingPulse esp8266-spotify-remote",
+          "description": "Control your Spotify player from a ESP8266 with color touch display.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-09-30T10:51:50Z",
+            "owner": "ThingPulse",
+            "repo": "esp8266-spotify-remote",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knobby",
+          "description": "A handheld Spotify remote that encourages you to explore unfamiliar music.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-14T20:31:19Z",
+            "owner": "quadule",
+            "repo": "knobby",
+            "stars": 213
+          }
+        }
+      ],
+      "title": "Music and Audio"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SoftRF",
+          "description": "A DIY aviation proximity awareness system that can be used in UAV projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T07:30:40Z",
+            "owner": "lyusupov",
+            "repo": "SoftRF",
+            "stars": 999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DroneBridge",
+          "description": "An implementation of DroneBridge, a signal link for drones and UAV's on the ESP32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T21:37:21Z",
+            "owner": "DroneBridge",
+            "repo": "ESP32",
+            "stars": 999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Retro ESP32",
+          "description": "An extremely cool launcher for the Odroid Go (with the ESP32), which allows emulating several retro consoles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-07-31T19:21:16Z",
+            "owner": "retro-esp32",
+            "repo": "RetroESP32",
+            "stars": 722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FreeTouchDeck",
+          "description": "Open source touch macropad and stream control deck with built-in web configurator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-05-22T10:02:55Z",
+            "owner": "DustinWatts",
+            "repo": "FreeTouchDeck",
+            "stars": 709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "E-TKT",
+          "description": "An ESP32 powered DIY label maker that mixes both old fashioned and contemporary technology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-05-04T18:21:41Z",
+            "owner": "andreisperid",
+            "repo": "E-TKT",
+            "stars": 471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WirelessPrinting",
+          "description": "Print wirelessly from Cura, PrusaSlicer or Slic3r to your 3D printer connected to an ESP module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-04-24T21:43:20Z",
+            "owner": "probonopd",
+            "repo": "WirelessPrinting",
+            "stars": 382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmartSpin2k",
+          "description": "Transform your spin bike into a smart trainer with automatic resistance knob control in fitness apps like Zwift.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T03:18:11Z",
+            "owner": "doudar",
+            "repo": "SmartSpin2k",
+            "stars": 277
+          }
+        }
+      ],
+      "title": "Others"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wasm3",
+          "description": "A lightning fast WebAssembly interpreter designed for embedded devices, compatible with both ESP's.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T11:56:58Z",
+            "owner": "wasm3",
+            "repo": "wasm3",
+            "stars": 7972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IRremoteESP8266",
+          "description": "Emit and receive IR signals in the ESP8266.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-02T22:55:21Z",
+            "owner": "crankyoldgit",
+            "repo": "IRremoteESP8266",
+            "stars": 3565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESPAudio",
+          "description": "Library for playing a diverse range of audio formats in the ESP8266/ESP32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-02T17:14:10Z",
+            "owner": "earlephilhower",
+            "repo": "ESP8266Audio",
+            "stars": 2385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TinyGSM",
+          "description": "A quick and simple Arduino library for interaction with GSM modules which can also control the 8266 through AT commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-21T03:52:35Z",
+            "owner": "vshymanskyy",
+            "repo": "TinyGSM",
+            "stars": 2211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HomeSpan",
+          "description": "A robust and extremely easy-to-use Arduino library for creating your own ESP32-based HomeKit devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T02:17:08Z",
+            "owner": "HomeSpan",
+            "repo": "HomeSpan",
+            "stars": 2146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mJS",
+          "description": "A lightweight and restricted JS engine that is used by MongooseOS, compatible on the 32 and 8266.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-16T14:13:26Z",
+            "owner": "cesanta",
+            "repo": "mjs",
+            "stars": 2054
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LedFx",
+          "description": "A library for using audio input to create realtime light shows. LedFx can control multiple devices and works great with cheap ESP8266 nodes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T22:27:06Z",
+            "owner": "LedFx",
+            "repo": "LedFx",
+            "stars": 2017
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESP32-audioI2S",
+          "description": "Plays mp3, m4a and wav files from SD card or stream via I2S interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T16:16:38Z",
+            "owner": "schreibfaul1",
+            "repo": "ESP32-audioI2S",
+            "stars": 1663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESP-Dash",
+          "description": "Beautiful and fast framework for creating remote dashboards in the 8266/32. No internet required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-22T02:31:18Z",
+            "owner": "ayushsharma82",
+            "repo": "ESP-DASH",
+            "stars": 1395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Homie8266",
+          "description": "Framework implementation of the Homie protocol for the 8266.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-03-06T19:20:54Z",
+            "owner": "homieiot",
+            "repo": "homie-esp8266",
+            "stars": 1371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GUIslice",
+          "description": "A drag and drop GUI framework for several devices and screen controllers. Compatible with 8266 and 32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-14T22:43:12Z",
+            "owner": "ImpulseAdventure",
+            "repo": "GUIslice",
+            "stars": 1359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESP_mqtt",
+          "description": "MQTT helper library for the ESP8266.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-12-22T11:05:45Z",
+            "owner": "tuanpmt",
+            "repo": "esp_mqtt",
+            "stars": 1172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESP-HomeKit",
+          "description": "Homekit implementation for 8266 on RTOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-12-18T21:03:14Z",
+            "owner": "maximkulkin",
+            "repo": "esp-homekit",
+            "stars": 1165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESPUI",
+          "description": "A simply library for making interactive web interfaces for both ESP's.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-30T07:35:36Z",
+            "owner": "s00500",
+            "repo": "ESPUI",
+            "stars": 1122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AsyncTCP",
+          "description": "Asynchronous TCP Library for both the 8266 and the 32.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2025-01-20T16:16:00Z",
+            "owner": "me-no-dev",
+            "repo": "ESPAsyncTCP",
+            "stars": 783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MicroWebSrv2",
+          "description": "A very powerful MicroPython web server which can be used in the ESP32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-18T11:58:20Z",
+            "owner": "jczic",
+            "repo": "MicroWebSrv2",
+            "stars": 719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TFTLibrary",
+          "description": "TFT compatibility for the ESP32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-19T01:46:09Z",
+            "owner": "loboris",
+            "repo": "ESP32_TFT_library",
+            "stars": 658
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WiFiESP",
+          "description": "Arduino library for Wifi management, client/server for 8266 board.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-03-26T18:08:51Z",
+            "owner": "bportaluri",
+            "repo": "WiFiEsp",
+            "stars": 571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free802.11",
+          "description": "Library to emit arbitrary 802.11 signals with the ESP32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-01-24T19:51:52Z",
+            "owner": "Jeija",
+            "repo": "esp32free80211",
+            "stars": 570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "painlessMesh",
+          "description": "A library that takes care of the particulars of creating a simple mesh network using ESP8266 and ESP32 hardware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-08-29T22:50:36Z",
+            "owner": "gmag11",
+            "repo": "painlessMesh",
+            "stars": 563
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "esphomelib",
+          "description": "Framework to integrate with HomeAssistant in the 8266.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2021-03-05T17:48:25Z",
+            "owner": "esphome",
+            "repo": "esphome-core",
+            "stars": 549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESP8266Wifi",
+          "description": "Simple Arduino Wifi library for the 8266.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-06-28T15:38:36Z",
+            "owner": "ekstrand",
+            "repo": "ESP8266wifi",
+            "stars": 463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESPHelper",
+          "description": "MQTT and Wi-fi automation-oriented library for the 8266.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-18T17:30:14Z",
+            "owner": "ItKindaWorks",
+            "repo": "ESPHelper",
+            "stars": 328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WifiEspNow",
+          "description": "Arduino library for ESP-NOW, a connectionless WiFi communication protocol defined by Espressif.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-18T13:56:49Z",
+            "owner": "yoursunny",
+            "repo": "WifiEspNow",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESP32 ePaper",
+          "description": "A full-featured library for using ePaper modules with the ESP32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-11-25T15:59:29Z",
+            "owner": "loboris",
+            "repo": "ESP32_ePaper_example",
+            "stars": 243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TTS",
+          "description": "A somehow good text to speech library for several Arduino devices, both ESP's included.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-06-29T02:25:01Z",
+            "owner": "jscrane",
+            "repo": "TTS",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TinyUPnP",
+          "description": "A lightweight UPnP IGD library for automatic port forwarding on the 8266 and 32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-16T14:27:57Z",
+            "owner": "ofekp",
+            "repo": "TinyUPnP",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UTFT-ESP",
+          "description": "UTFT Support for the ESP32/8266.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-09-06T07:10:37Z",
+            "owner": "gnulabis",
+            "repo": "UTFT-ESP",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Koyn",
+          "description": "A decentralized Bitcoin library for the ESP32 and the ESP8266.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-05-31T21:38:56Z",
+            "owner": "elkrem",
+            "repo": "koyn",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESPHelper/32",
+          "description": "Port of the ESPHelper library for the 32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-04-02T22:10:08Z",
+            "owner": "ItKindaWorks",
+            "repo": "ESPHelper32",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Esp32SSHClient",
+          "description": "A library that implements a SSH client in the ESP32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-10-29T15:11:27Z",
+            "owner": "J-Rios",
+            "repo": "Arduino-esp32sshclient",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CanAirIO SensorLib",
+          "description": "ESP32/8266 library with auto-configuration of multiple PM2.5, CO2 and environment sensors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T19:54:54Z",
+            "owner": "kike-canaries",
+            "repo": "canairio_sensorlib",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dhyara",
+          "description": "A C/C++ library for making a Mobile Ad hoc Network (MANET) using ESP Now.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-12-20T12:06:51Z",
+            "owner": "neel",
+            "repo": "dhyara",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-mcu",
+          "description": "Golang package for interacting with NodeMCU-based boards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-01-14T01:56:56Z",
+            "owner": "matiasinsaurralde",
+            "repo": "go-mcu",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Libraries"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:09:06.814Z",
+    "original_repository": "agucova/awesome-esp",
+    "original_repository_sha": "d6f4c9ba5fc4cddb54103aadd5dc88ef4c3f39dc",
+    "enhanced_repository": "enhansome/enhansome-esp",
+    "enhanced_repository_description": null,
+    "title": "Awesome ESP with stars"
+  }
+}
