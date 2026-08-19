@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15337142,
             "language": "C",
             "last_commit": "2026-08-18T14:36:09Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 21992
+            "stars": 21994
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7408108,
             "language": "C",
             "last_commit": "2026-08-17T09:15:34Z",
             "owner": "RT-Thread",
             "repo": "rt-thread",
-            "stars": 12160
+            "stars": 12161
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26917568,
             "language": "C",
             "last_commit": "2026-06-07T14:37:16Z",
             "owner": "nodemcu",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21318268,
             "language": "C",
             "last_commit": "2026-07-26T11:38:40Z",
             "owner": "cesanta",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34058391,
             "language": "C",
             "last_commit": "2026-07-22T03:30:47Z",
             "owner": "luc-github",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32271212,
             "language": "C++",
             "last_commit": "2026-07-20T08:21:00Z",
             "owner": "SmingHub",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26371166,
             "language": "C",
             "last_commit": "2020-06-03T08:38:24Z",
             "owner": "nekromant",
@@ -105,7 +112,7 @@
       "title": "Firmware"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -114,8 +121,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70127218,
             "language": "C++",
-            "last_commit": "2026-08-18T21:15:13Z",
+            "last_commit": "2026-08-19T12:17:14Z",
             "owner": "espressif",
             "repo": "arduino-esp32",
             "stars": 17249
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32969220,
             "language": "C++",
             "last_commit": "2026-07-29T14:21:18Z",
             "owner": "esp8266",
@@ -142,11 +151,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19606299,
             "language": "Python",
             "last_commit": "2026-08-11T17:20:40Z",
             "owner": "platformio",
             "repo": "platformio-core",
-            "stars": 9409
+            "stars": 9410
           }
         },
         {
@@ -156,11 +166,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23736914,
             "language": "Python",
             "last_commit": "2026-08-10T14:06:51Z",
             "owner": "espressif",
             "repo": "esptool",
-            "stars": 6449
+            "stars": 6450
           }
         },
         {
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166086572,
             "language": "Python",
             "last_commit": "2024-09-06T16:02:36Z",
             "owner": "ct-Open-Source",
@@ -184,11 +196,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27580124,
             "language": "Pascal",
             "last_commit": "2017-08-08T13:41:36Z",
             "owner": "nodemcu",
             "repo": "nodemcu-flasher",
-            "stars": 2214
+            "stars": 2215
           }
         },
         {
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26695164,
             "language": "Makefile",
             "last_commit": "2022-01-12T01:11:42Z",
             "owner": "pfalcon",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223917086,
             "language": "Python",
             "last_commit": "2024-01-30T18:25:44Z",
             "owner": "tasmota",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53863000,
             "language": "C",
             "last_commit": "2024-05-30T07:24:08Z",
             "owner": "Nicholas3388",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45948717,
             "language": "Java",
             "last_commit": "2022-11-30T15:03:52Z",
             "owner": "esp8266",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28329151,
             "language": "C",
             "last_commit": "2020-12-21T10:12:59Z",
             "owner": "igrr",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62112660,
             "language": "C++",
             "last_commit": "2022-09-19T22:19:09Z",
             "owner": "Rodmg",
@@ -279,456 +298,491 @@
       "title": "Tools"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenMQTTGateway",
+              "description": "An implementation of a multiprotocol MQTT gateway for both ESP's among other devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68460326,
+                "language": "C++",
+                "last_commit": "2026-08-17T09:47:46Z",
+                "owner": "1technophile",
+                "repo": "OpenMQTTGateway",
+                "stars": 4078
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ESPEasy",
+              "description": "Easily turn ESP modules into multifunction sensor devices for home automation systems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42119846,
+                "language": "C++",
+                "last_commit": "2026-08-18T20:31:47Z",
+                "owner": "letscontrolit",
+                "repo": "ESPEasy",
+                "stars": 3563
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sonoff-Homekit",
+              "description": "An alternative firmware for Sonoff devices (and other 8266 devices) which allows control through Apple's Homekit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148889787,
+                "language": "C",
+                "last_commit": "2025-04-16T17:09:50Z",
+                "owner": "Gruppio",
+                "repo": "Sonoff-Homekit",
+                "stars": 1004
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HomePoint",
+              "description": "Control MQTT/HomeKit smart home devices from an ESP32-powered screen.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188660845,
+                "language": "C",
+                "last_commit": "2022-08-04T13:41:38Z",
+                "owner": "sieren",
+                "repo": "Homepoint",
+                "stars": 660
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SuperGreenOS",
+              "description": "A full-featured home farming automation software for the ESP32.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148318642,
+                "language": "C",
+                "last_commit": "2024-06-05T09:43:44Z",
+                "owner": "supergreenlab",
+                "repo": "SuperGreenOS",
+                "stars": 220
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EPaperWeatherDisplay",
+              "description": "A very cute e-ink weather display using the ESP32.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162624146,
+                "language": "C",
+                "last_commit": "2020-10-31T11:02:07Z",
+                "owner": "henri98",
+                "repo": "esp32-e-paper-weatherdisplay",
+                "stars": 169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CanAirIO",
+              "description": "Citizen science project that uses mobile and fixed stations to measure air quality with ESP32 and smartphones.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136413087,
+                "language": "C++",
+                "last_commit": "2026-08-18T07:52:13Z",
+                "owner": "kike-canaries",
+                "repo": "canairio_firmware",
+                "stars": 129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DoorsignEPD",
+              "description": "A smart doorsign with an E-Paper display using the ESP32.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115023880,
+                "language": "PHP",
+                "last_commit": "2024-09-29T11:46:55Z",
+                "owner": "jamct",
+                "repo": "DoorsignEPD",
+                "stars": 103
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Smart Home and IoT"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ESP8266 Deauther",
+              "description": "A very cool pseudojammer (deauther) of Wifi networks that uses the ESP8266.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78281075,
+                "language": "C",
+                "last_commit": "2024-08-14T17:38:08Z",
+                "owner": "SpacehuhnTech",
+                "repo": "esp8266_deauther",
+                "stars": 14923
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ESP32Marauder",
+              "description": "An integrated suite of offensive and defensive tools for WiFi and Bluetooth.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208325027,
+                "language": "C++",
+                "last_commit": "2026-08-19T09:10:39Z",
+                "owner": "justcallmekoko",
+                "repo": "ESP32Marauder",
+                "stars": 12032
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WiFiDuck",
+              "description": "A wireless-enabled keystroke injector, analogous, but even more awesome than the Rubber Ducky.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191332397,
+                "language": "C++",
+                "last_commit": "2023-06-02T14:03:39Z",
+                "owner": "SpacehuhnTech",
+                "repo": "WiFiDuck",
+                "stars": 3251
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ESP8266 Beacon Spam",
+              "description": "Want to confuse people? This device creates hundreds of fake WiFi networks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81657095,
+                "language": "C++",
+                "last_commit": "2024-08-08T19:55:26Z",
+                "owner": "spacehuhn",
+                "repo": "esp8266_beaconSpam",
+                "stars": 1360
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeauthDetector",
+              "description": "A small device that shines a light if it detects a WiFi deauth attack. Made by the same guy as the last six projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88066841,
+                "language": "C++",
+                "last_commit": "2023-08-28T12:56:53Z",
+                "owner": "SpacehuhnTech",
+                "repo": "DeauthDetector",
+                "stars": 971
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ArduinoPcap",
+              "description": "A library which allows generation of .pcap files with network traffic, for both ESP's.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94319124,
+                "language": "C++",
+                "last_commit": "2024-03-03T15:26:50Z",
+                "owner": "spacehuhn",
+                "repo": "ArduinoPcap",
+                "stars": 462
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PacketMonitor",
+              "description": "A beautiful OLED monitor for packet activity in a WiFi channel. Two versions for each ESP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98464789,
+                "language": "C++",
+                "last_commit": "2020-11-20T10:38:02Z",
+                "owner": "spacehuhn",
+                "repo": "PacketMonitor32",
+                "stars": 401
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ESP32-BLECollector",
+              "description": "A wardriving device which displays BLE devices and collects data from them, all in a nice screen interface.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154091767,
+                "language": "C",
+                "last_commit": "2024-09-04T10:51:05Z",
+                "owner": "tobozo",
+                "repo": "ESP32-BLECollector",
+                "stars": 360
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "InfoSec"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Squeezelite-esp32",
+              "description": "Streaming audio receiver with multi-room sync, AirPlay, Bluetooth, hardware buttons, display and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 187874998,
+                "language": "C",
+                "last_commit": "2026-07-30T12:15:10Z",
+                "owner": "sle118",
+                "repo": "squeezelite-esp32",
+                "stars": 2163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ESP32-Radio",
+              "description": "Internet radio based on ESP32, VS1053 and a TFT screen.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92173631,
+                "language": "C++",
+                "last_commit": "2024-10-21T09:34:05Z",
+                "owner": "Edzelf",
+                "repo": "ESP32-Radio",
+                "stars": 1065
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PedalinoMini",
+              "description": "A wireless MIDI pedal controller for guitarists, built with the ESP32.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155570318,
+                "language": "Python",
+                "last_commit": "2026-05-04T07:48:59Z",
+                "owner": "alf45tar",
+                "repo": "PedalinoMini",
+                "stars": 612
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ESPuino",
+              "description": "RFID-controlled music player powered by ESP32.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237524395,
+                "language": "C++",
+                "last_commit": "2026-08-16T17:27:06Z",
+                "owner": "biologist79",
+                "repo": "ESPuino",
+                "stars": 417
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Alles",
+              "description": "A many speaker distributed music synthesizer using UDP multicast over WiFi, modeled after the alles machine/AMY.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136823526,
+                "language": "C",
+                "last_commit": "2024-11-04T15:35:56Z",
+                "owner": "shorepine",
+                "repo": "alles",
+                "stars": 322
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ThingPulse esp8266-spotify-remote",
+              "description": "Control your Spotify player from a ESP8266 with color touch display.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138146948,
+                "language": "C",
+                "last_commit": "2023-09-30T10:51:50Z",
+                "owner": "ThingPulse",
+                "repo": "esp8266-spotify-remote",
+                "stars": 277
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Knobby",
+              "description": "A handheld Spotify remote that encourages you to explore unfamiliar music.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 204773162,
+                "language": "C",
+                "last_commit": "2025-12-14T20:31:19Z",
+                "owner": "quadule",
+                "repo": "knobby",
+                "stars": 213
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Music and Audio"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DroneBridge",
+              "description": "An implementation of DroneBridge, a signal link for drones and UAV's on the ESP32.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145338929,
+                "language": "C",
+                "last_commit": "2026-08-18T21:50:19Z",
+                "owner": "DroneBridge",
+                "repo": "ESP32",
+                "stars": 1044
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SoftRF",
+              "description": "A DIY aviation proximity awareness system that can be used in UAV projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48141669,
+                "language": "C",
+                "last_commit": "2026-08-19T09:27:51Z",
+                "owner": "lyusupov",
+                "repo": "SoftRF",
+                "stars": 1003
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Retro ESP32",
+              "description": "An extremely cool launcher for the Odroid Go (with the ESP32), which allows emulating several retro consoles.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 187058433,
+                "language": "C",
+                "last_commit": "2024-07-31T19:21:16Z",
+                "owner": "retro-esp32",
+                "repo": "RetroESP32",
+                "stars": 723
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FreeTouchDeck",
+              "description": "Open source touch macropad and stream control deck with built-in web configurator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290729873,
+                "language": "C",
+                "last_commit": "2024-05-22T10:02:55Z",
+                "owner": "DustinWatts",
+                "repo": "FreeTouchDeck",
+                "stars": 709
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "E-TKT",
+              "description": "An ESP32 powered DIY label maker that mixes both old fashioned and contemporary technology.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 347648372,
+                "language": "C++",
+                "last_commit": "2023-05-04T18:21:41Z",
+                "owner": "andreisperid",
+                "repo": "E-TKT",
+                "stars": 472
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WirelessPrinting",
+              "description": "Print wirelessly from Cura, PrusaSlicer or Slic3r to your 3D printer connected to an ESP module.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83964317,
+                "language": "C++",
+                "last_commit": "2023-04-24T21:43:20Z",
+                "owner": "probonopd",
+                "repo": "WirelessPrinting",
+                "stars": 382
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SmartSpin2k",
+              "description": "Transform your spin bike into a smart trainer with automatic resistance knob control in fitness apps like Zwift.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290931862,
+                "language": "C++",
+                "last_commit": "2026-08-15T19:16:17Z",
+                "owner": "doudar",
+                "repo": "SmartSpin2k",
+                "stars": 277
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others"
+        }
+      ],
       "title": "Projects"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OpenMQTTGateway",
-          "description": "An implementation of a multiprotocol MQTT gateway for both ESP's among other devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-17T09:47:46Z",
-            "owner": "1technophile",
-            "repo": "OpenMQTTGateway",
-            "stars": 4078
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ESPEasy",
-          "description": "Easily turn ESP modules into multifunction sensor devices for home automation systems.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T20:31:47Z",
-            "owner": "letscontrolit",
-            "repo": "ESPEasy",
-            "stars": 3563
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sonoff-Homekit",
-          "description": "An alternative firmware for Sonoff devices (and other 8266 devices) which allows control through Apple's Homekit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-04-16T17:09:50Z",
-            "owner": "Gruppio",
-            "repo": "Sonoff-Homekit",
-            "stars": 1004
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HomePoint",
-          "description": "Control MQTT/HomeKit smart home devices from an ESP32-powered screen.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-08-04T13:41:38Z",
-            "owner": "sieren",
-            "repo": "Homepoint",
-            "stars": 660
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SuperGreenOS",
-          "description": "A full-featured home farming automation software for the ESP32.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-06-05T09:43:44Z",
-            "owner": "supergreenlab",
-            "repo": "SuperGreenOS",
-            "stars": 220
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EPaperWeatherDisplay",
-          "description": "A very cute e-ink weather display using the ESP32.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2020-10-31T11:02:07Z",
-            "owner": "henri98",
-            "repo": "esp32-e-paper-weatherdisplay",
-            "stars": 169
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CanAirIO",
-          "description": "Citizen science project that uses mobile and fixed stations to measure air quality with ESP32 and smartphones.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T07:52:13Z",
-            "owner": "kike-canaries",
-            "repo": "canairio_firmware",
-            "stars": 129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DoorsignEPD",
-          "description": "A smart doorsign with an E-Paper display using the ESP32.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-09-29T11:46:55Z",
-            "owner": "jamct",
-            "repo": "DoorsignEPD",
-            "stars": 103
-          }
-        }
-      ],
-      "title": "Smart Home and IoT"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ESP8266 Deauther",
-          "description": "A very cool pseudojammer (deauther) of Wifi networks that uses the ESP8266.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-08-14T17:38:08Z",
-            "owner": "SpacehuhnTech",
-            "repo": "esp8266_deauther",
-            "stars": 14924
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ESP32Marauder",
-          "description": "An integrated suite of offensive and defensive tools for WiFi and Bluetooth.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-19T02:48:33Z",
-            "owner": "justcallmekoko",
-            "repo": "ESP32Marauder",
-            "stars": 12030
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WiFiDuck",
-          "description": "A wireless-enabled keystroke injector, analogous, but even more awesome than the Rubber Ducky.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-06-02T14:03:39Z",
-            "owner": "SpacehuhnTech",
-            "repo": "WiFiDuck",
-            "stars": 3243
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ESP8266 Beacon Spam",
-          "description": "Want to confuse people? This device creates hundreds of fake WiFi networks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-08-08T19:55:26Z",
-            "owner": "spacehuhn",
-            "repo": "esp8266_beaconSpam",
-            "stars": 1360
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeauthDetector",
-          "description": "A small device that shines a light if it detects a WiFi deauth attack. Made by the same guy as the last six projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-08-28T12:56:53Z",
-            "owner": "SpacehuhnTech",
-            "repo": "DeauthDetector",
-            "stars": 971
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ArduinoPcap",
-          "description": "A library which allows generation of .pcap files with network traffic, for both ESP's.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-03-03T15:26:50Z",
-            "owner": "spacehuhn",
-            "repo": "ArduinoPcap",
-            "stars": 462
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PacketMonitor",
-          "description": "A beautiful OLED monitor for packet activity in a WiFi channel. Two versions for each ESP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2020-11-20T10:38:02Z",
-            "owner": "spacehuhn",
-            "repo": "PacketMonitor32",
-            "stars": 401
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ESP32-BLECollector",
-          "description": "A wardriving device which displays BLE devices and collects data from them, all in a nice screen interface.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-09-04T10:51:05Z",
-            "owner": "tobozo",
-            "repo": "ESP32-BLECollector",
-            "stars": 360
-          }
-        }
-      ],
-      "title": "InfoSec"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Squeezelite-esp32",
-          "description": "Streaming audio receiver with multi-room sync, AirPlay, Bluetooth, hardware buttons, display and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-07-30T12:15:10Z",
-            "owner": "sle118",
-            "repo": "squeezelite-esp32",
-            "stars": 2163
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ESP32-Radio",
-          "description": "Internet radio based on ESP32, VS1053 and a TFT screen.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-10-21T09:34:05Z",
-            "owner": "Edzelf",
-            "repo": "ESP32-Radio",
-            "stars": 1065
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PedalinoMini",
-          "description": "A wireless MIDI pedal controller for guitarists, built with the ESP32.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-04T07:48:59Z",
-            "owner": "alf45tar",
-            "repo": "PedalinoMini",
-            "stars": 612
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ESPuino",
-          "description": "RFID-controlled music player powered by ESP32.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-16T17:27:06Z",
-            "owner": "biologist79",
-            "repo": "ESPuino",
-            "stars": 417
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Alles",
-          "description": "A many speaker distributed music synthesizer using UDP multicast over WiFi, modeled after the alles machine/AMY.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-11-04T15:35:56Z",
-            "owner": "shorepine",
-            "repo": "alles",
-            "stars": 322
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ThingPulse esp8266-spotify-remote",
-          "description": "Control your Spotify player from a ESP8266 with color touch display.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-09-30T10:51:50Z",
-            "owner": "ThingPulse",
-            "repo": "esp8266-spotify-remote",
-            "stars": 277
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Knobby",
-          "description": "A handheld Spotify remote that encourages you to explore unfamiliar music.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-12-14T20:31:19Z",
-            "owner": "quadule",
-            "repo": "knobby",
-            "stars": 213
-          }
-        }
-      ],
-      "title": "Music and Audio"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DroneBridge",
-          "description": "An implementation of DroneBridge, a signal link for drones and UAV's on the ESP32.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T21:50:19Z",
-            "owner": "DroneBridge",
-            "repo": "ESP32",
-            "stars": 1037
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SoftRF",
-          "description": "A DIY aviation proximity awareness system that can be used in UAV projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T06:05:46Z",
-            "owner": "lyusupov",
-            "repo": "SoftRF",
-            "stars": 1003
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Retro ESP32",
-          "description": "An extremely cool launcher for the Odroid Go (with the ESP32), which allows emulating several retro consoles.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-07-31T19:21:16Z",
-            "owner": "retro-esp32",
-            "repo": "RetroESP32",
-            "stars": 723
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FreeTouchDeck",
-          "description": "Open source touch macropad and stream control deck with built-in web configurator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-05-22T10:02:55Z",
-            "owner": "DustinWatts",
-            "repo": "FreeTouchDeck",
-            "stars": 709
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "E-TKT",
-          "description": "An ESP32 powered DIY label maker that mixes both old fashioned and contemporary technology.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-05-04T18:21:41Z",
-            "owner": "andreisperid",
-            "repo": "E-TKT",
-            "stars": 472
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WirelessPrinting",
-          "description": "Print wirelessly from Cura, PrusaSlicer or Slic3r to your 3D printer connected to an ESP module.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-04-24T21:43:20Z",
-            "owner": "probonopd",
-            "repo": "WirelessPrinting",
-            "stars": 382
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SmartSpin2k",
-          "description": "Transform your spin bike into a smart trainer with automatic resistance knob control in fitness apps like Zwift.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-15T19:16:17Z",
-            "owner": "doudar",
-            "repo": "SmartSpin2k",
-            "stars": 277
-          }
-        }
-      ],
-      "title": "Others"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -737,11 +791,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 212152900,
             "language": "C",
-            "last_commit": "2026-08-18T14:21:21Z",
+            "last_commit": "2026-08-19T12:14:50Z",
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 7981
+            "stars": 7984
           }
         },
         {
@@ -751,11 +806,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37022659,
             "language": "C++",
             "last_commit": "2026-08-14T10:37:18Z",
             "owner": "crankyoldgit",
             "repo": "IRremoteESP8266",
-            "stars": 3572
+            "stars": 3573
           }
         },
         {
@@ -765,6 +821,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100118525,
             "language": "C",
             "last_commit": "2026-08-02T17:14:10Z",
             "owner": "earlephilhower",
@@ -779,6 +836,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75287798,
             "language": "C++",
             "last_commit": "2026-07-21T03:52:35Z",
             "owner": "vshymanskyy",
@@ -793,6 +851,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 280864388,
             "language": "C++",
             "last_commit": "2026-08-19T02:09:36Z",
             "owner": "HomeSpan",
@@ -807,6 +866,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77057142,
             "language": "C",
             "last_commit": "2026-03-16T14:13:26Z",
             "owner": "cesanta",
@@ -821,6 +881,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 322593860,
             "language": "Python",
             "last_commit": "2026-08-17T22:53:02Z",
             "owner": "LedFx",
@@ -835,8 +896,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155110539,
             "language": "C",
-            "last_commit": "2026-08-17T14:45:18Z",
+            "last_commit": "2026-08-19T11:00:12Z",
             "owner": "schreibfaul1",
             "repo": "ESP32-audioI2S",
             "stars": 1669
@@ -849,6 +911,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110254023,
             "language": "C++",
             "last_commit": "2025-11-22T02:31:18Z",
             "owner": "ayushsharma82",
@@ -863,6 +926,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47922159,
             "language": "HTML",
             "last_commit": "2026-03-06T19:20:54Z",
             "owner": "homieiot",
@@ -877,6 +941,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69373650,
             "language": "C",
             "last_commit": "2026-07-14T22:43:12Z",
             "owner": "ImpulseAdventure",
@@ -891,6 +956,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28503528,
             "language": "C",
             "last_commit": "2020-12-22T11:05:45Z",
             "owner": "tuanpmt",
@@ -905,6 +971,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113219787,
             "language": "C",
             "last_commit": "2023-12-18T21:03:14Z",
             "owner": "maximkulkin",
@@ -919,6 +986,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107566911,
             "language": "C++",
             "last_commit": "2026-04-30T07:35:36Z",
             "owner": "s00500",
@@ -933,6 +1001,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 48289725,
             "language": "C++",
             "last_commit": "2025-01-20T16:16:00Z",
             "owner": "me-no-dev",
@@ -947,6 +1016,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 213262747,
             "language": "Python",
             "last_commit": "2025-08-18T11:58:20Z",
             "owner": "jczic",
@@ -961,6 +1031,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91979913,
             "language": "C",
             "last_commit": "2024-06-19T01:46:09Z",
             "owner": "loboris",
@@ -975,6 +1046,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34266394,
             "language": "C++",
             "last_commit": "2024-03-26T18:08:51Z",
             "owner": "bportaluri",
@@ -989,6 +1061,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87645817,
             "language": "C",
             "last_commit": "2022-01-24T19:51:52Z",
             "owner": "Jeija",
@@ -1003,6 +1076,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79226215,
             "language": "C++",
             "last_commit": "2019-08-29T22:50:36Z",
             "owner": "gmag11",
@@ -1017,6 +1091,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 118358307,
             "language": "C++",
             "last_commit": "2021-03-05T17:48:25Z",
             "owner": "esphome",
@@ -1031,6 +1106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31374024,
             "language": "C++",
             "last_commit": "2018-06-28T15:38:36Z",
             "owner": "ekstrand",
@@ -1045,6 +1121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67967123,
             "language": "C++",
             "last_commit": "2025-06-18T17:30:14Z",
             "owner": "ItKindaWorks",
@@ -1059,6 +1136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115818375,
             "language": "C++",
             "last_commit": "2026-03-18T13:56:49Z",
             "owner": "yoursunny",
@@ -1073,6 +1151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94028243,
             "language": "C",
             "last_commit": "2018-11-25T15:59:29Z",
             "owner": "loboris",
@@ -1087,6 +1166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7975631,
             "language": "C",
             "last_commit": "2023-06-29T02:25:01Z",
             "owner": "jscrane",
@@ -1101,6 +1181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101509648,
             "language": "C++",
             "last_commit": "2024-08-16T14:27:57Z",
             "owner": "ofekp",
@@ -1115,6 +1196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47185827,
             "language": "C",
             "last_commit": "2019-09-06T07:10:37Z",
             "owner": "gnulabis",
@@ -1129,6 +1211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131600765,
             "language": "C++",
             "last_commit": "2019-05-31T21:38:56Z",
             "owner": "elkrem",
@@ -1143,6 +1226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123458302,
             "language": "C++",
             "last_commit": "2019-04-02T22:10:08Z",
             "owner": "ItKindaWorks",
@@ -1157,6 +1241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193162191,
             "language": "C",
             "last_commit": "2022-10-29T15:11:27Z",
             "owner": "J-Rios",
@@ -1171,6 +1256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300847700,
             "language": "C++",
             "last_commit": "2026-08-13T22:19:33Z",
             "owner": "kike-canaries",
@@ -1185,6 +1271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345352769,
             "language": "C++",
             "last_commit": "2021-12-20T12:06:51Z",
             "owner": "neel",
@@ -1199,6 +1286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 328273499,
             "language": "Go",
             "last_commit": "2021-01-14T01:56:56Z",
             "owner": "matiasinsaurralde",
@@ -1211,8 +1299,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:07:33.090Z",
+    "last_updated": "2026-08-19T12:27:12.321Z",
     "original_repository": "agucova/awesome-esp",
+    "original_repository_id": 115279038,
     "original_repository_sha": "d6f4c9ba5fc4cddb54103aadd5dc88ef4c3f39dc",
     "enhanced_repository": "enhansome/enhansome-esp",
     "enhanced_repository_description": null,
