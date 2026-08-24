@@ -12,10 +12,10 @@
             "archived": false,
             "id": 15337142,
             "language": "C",
-            "last_commit": "2026-08-18T14:36:09Z",
+            "last_commit": "2026-08-24T13:50:59Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22010
+            "stars": 22009
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 7408108,
             "language": "C",
-            "last_commit": "2026-08-24T02:38:52Z",
+            "last_commit": "2026-08-24T09:10:55Z",
             "owner": "RT-Thread",
             "repo": "rt-thread",
             "stars": 12164
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 70127218,
             "language": "C++",
-            "last_commit": "2026-08-24T01:40:01Z",
+            "last_commit": "2026-08-24T14:02:11Z",
             "owner": "espressif",
             "repo": "arduino-esp32",
-            "stars": 17278
+            "stars": 17279
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-07-29T14:21:18Z",
             "owner": "esp8266",
             "repo": "Arduino",
-            "stars": 16667
+            "stars": 16668
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-22T17:46:55Z",
             "owner": "platformio",
             "repo": "platformio-core",
-            "stars": 9418
+            "stars": 9419
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-20T08:10:55Z",
             "owner": "espressif",
             "repo": "esptool",
-            "stars": 6455
+            "stars": 6456
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2024-05-30T07:24:08Z",
             "owner": "Nicholas3388",
             "repo": "LuaNode",
-            "stars": 1331
+            "stars": 1332
           }
         },
         {
@@ -311,7 +311,7 @@
                 "archived": false,
                 "id": 68460326,
                 "language": "C++",
-                "last_commit": "2026-08-24T00:31:31Z",
+                "last_commit": "2026-08-24T13:17:18Z",
                 "owner": "1technophile",
                 "repo": "OpenMQTTGateway",
                 "stars": 4081
@@ -326,7 +326,7 @@
                 "archived": false,
                 "id": 42119846,
                 "language": "C++",
-                "last_commit": "2026-08-22T14:32:41Z",
+                "last_commit": "2026-08-24T09:23:07Z",
                 "owner": "letscontrolit",
                 "repo": "ESPEasy",
                 "stars": 3567
@@ -453,10 +453,10 @@
                 "archived": false,
                 "id": 208325027,
                 "language": "C++",
-                "last_commit": "2026-08-23T23:48:25Z",
+                "last_commit": "2026-08-24T05:05:30Z",
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12093
+                "stars": 12098
               }
             },
             {
@@ -471,7 +471,7 @@
                 "last_commit": "2023-06-02T14:03:39Z",
                 "owner": "SpacehuhnTech",
                 "repo": "WiFiDuck",
-                "stars": 3270
+                "stars": 3273
               }
             },
             {
@@ -516,7 +516,7 @@
                 "last_commit": "2024-03-03T15:26:50Z",
                 "owner": "spacehuhn",
                 "repo": "ArduinoPcap",
-                "stars": 462
+                "stars": 463
               }
             },
             {
@@ -531,7 +531,7 @@
                 "last_commit": "2020-11-20T10:38:02Z",
                 "owner": "spacehuhn",
                 "repo": "PacketMonitor32",
-                "stars": 401
+                "stars": 402
               }
             },
             {
@@ -546,13 +546,35 @@
                 "last_commit": "2024-09-04T10:51:05Z",
                 "owner": "tobozo",
                 "repo": "ESP32-BLECollector",
-                "stars": 361
+                "stars": 362
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "InfoSec"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ESP32-Paxcounter",
+              "description": "Wifi & Bluetooth driven, LoRaWAN enabled, battery powered mini Paxcounter built on cheap ESP32 LoRa IoT boards.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125756247,
+                "language": "C++",
+                "last_commit": "2026-08-12T12:19:53Z",
+                "owner": "cyberman54",
+                "repo": "ESP32-Paxcounter",
+                "stars": 2086
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LoRa"
         },
         {
           "children": [
@@ -568,7 +590,7 @@
                 "last_commit": "2026-07-30T12:15:10Z",
                 "owner": "sle118",
                 "repo": "squeezelite-esp32",
-                "stars": 2169
+                "stars": 2170
               }
             },
             {
@@ -670,6 +692,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "StickWatch",
+              "description": "A smartwatch module based on the M5Stick, using the ESP32.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165251467,
+                "language": "C++",
+                "last_commit": "2022-10-02T08:53:22Z",
+                "owner": "eggfly",
+                "repo": "StickWatch",
+                "stars": 96
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Smartwatches"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "DroneBridge",
               "description": "An implementation of DroneBridge, a signal link for drones and UAV's on the ESP32.",
               "children": [],
@@ -680,7 +724,7 @@
                 "last_commit": "2026-08-22T21:18:17Z",
                 "owner": "DroneBridge",
                 "repo": "ESP32",
-                "stars": 1077
+                "stars": 1078
               }
             },
             {
@@ -692,7 +736,7 @@
                 "archived": false,
                 "id": 48141669,
                 "language": "C",
-                "last_commit": "2026-08-21T14:18:17Z",
+                "last_commit": "2026-08-24T13:17:58Z",
                 "owner": "lyusupov",
                 "repo": "SoftRF",
                 "stars": 1005
@@ -725,7 +769,7 @@
                 "last_commit": "2024-05-22T10:02:55Z",
                 "owner": "DustinWatts",
                 "repo": "FreeTouchDeck",
-                "stars": 709
+                "stars": 710
               }
             },
             {
@@ -767,7 +811,7 @@
                 "archived": false,
                 "id": 290931862,
                 "language": "C++",
-                "last_commit": "2026-08-23T16:15:26Z",
+                "last_commit": "2026-08-24T11:41:17Z",
                 "owner": "doudar",
                 "repo": "SmartSpin2k",
                 "stars": 277
@@ -796,7 +840,7 @@
             "last_commit": "2026-08-23T09:33:42Z",
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 7994
+            "stars": 7995
           }
         },
         {
@@ -811,7 +855,7 @@
             "last_commit": "2026-08-23T12:23:51Z",
             "owner": "crankyoldgit",
             "repo": "IRremoteESP8266",
-            "stars": 3572
+            "stars": 3571
           }
         },
         {
@@ -886,7 +930,7 @@
             "last_commit": "2026-08-22T03:36:18Z",
             "owner": "LedFx",
             "repo": "LedFx",
-            "stars": 2029
+            "stars": 2030
           }
         },
         {
@@ -898,7 +942,7 @@
             "archived": false,
             "id": 155110539,
             "language": "C",
-            "last_commit": "2026-08-23T03:43:19Z",
+            "last_commit": "2026-08-24T12:06:49Z",
             "owner": "schreibfaul1",
             "repo": "ESP32-audioI2S",
             "stars": 1676
@@ -1299,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:12:56.268Z",
+    "last_updated": "2026-08-24T14:03:38.395Z",
     "original_repository": "agucova/awesome-esp",
     "original_repository_id": 115279038,
     "original_repository_sha": "d6f4c9ba5fc4cddb54103aadd5dc88ef4c3f39dc",
