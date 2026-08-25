@@ -25,7 +25,7 @@ A curated list of awesome ESP8266/32 projects and code.
 
 ## Firmware
 
-* [MicroPython](https://github.com/micropython/micropython/) ⭐ 22,009 | 🐛 1,539 | 🌐 C | 📅 2026-08-25 - An implemention of Python3 for the ESP8266 and 32.
+* [MicroPython](https://github.com/micropython/micropython/) ⭐ 22,010 | 🐛 1,536 | 🌐 C | 📅 2026-08-25 - An implemention of Python3 for the ESP8266 and 32.
 * [RT-Thread](https://github.com/RT-Thread/rt-thread) ⭐ 12,166 | 🐛 492 | 🌐 C | 📅 2026-08-24 - Chinese open source firmware available for the ESP32.
 * [NodeMCU](https://github.com/nodemcu/nodemcu-firmware) ⭐ 7,942 | 🐛 119 | 🌐 C | 📅 2026-06-07 - An eLua-based firmware for the ESP8266.
 * [MongooseOS](https://github.com/cesanta/mongoose-os) ⭐ 2,663 | 🐛 97 | 🌐 C | 📅 2026-07-26 - An IoT specific firmware, with both C and JS. Available for the ESP32/8266.
@@ -71,7 +71,7 @@ A curated list of awesome ESP8266/32 projects and code.
 ### InfoSec
 
 * [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther) ⭐ 14,938 | 🐛 99 | 🌐 C | 📅 2024-08-14 - A very cool pseudojammer (deauther) of Wifi networks that uses the ESP8266.
-* [ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,110 | 🐛 328 | 🌐 C++ | 📅 2026-08-25 - An integrated suite of offensive and defensive tools for WiFi and Bluetooth.
+* [ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,112 | 🐛 328 | 🌐 C++ | 📅 2026-08-25 - An integrated suite of offensive and defensive tools for WiFi and Bluetooth.
 * [WiFiDuck](https://github.com/spacehuhn/WiFiDuck) ⭐ 3,274 | 🐛 22 | 🌐 C++ | 📅 2023-06-02 - A wireless-enabled keystroke injector, analogous, but even more awesome than the Rubber Ducky.
 * [ESP8266 Beacon Spam](https://github.com/spacehuhn/esp8266_beaconSpam) ⭐ 1,365 | 🐛 25 | 🌐 C++ | 📅 2024-08-08 - Want to confuse people? This device creates hundreds of fake WiFi networks.
 * [DeauthDetector](https://github.com/spacehuhn/DeauthDetector) ⭐ 972 | 🐛 19 | 🌐 C++ | 📅 2023-08-28 - A small device that shines a light if it detects a WiFi deauth attack. Made by the same guy as the last six projects.

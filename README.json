@@ -12,10 +12,10 @@
             "archived": false,
             "id": 15337142,
             "language": "C",
-            "last_commit": "2026-08-25T02:10:17Z",
+            "last_commit": "2026-08-25T05:06:29Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22009
+            "stars": 22010
           }
         },
         {
@@ -453,10 +453,10 @@
                 "archived": false,
                 "id": 208325027,
                 "language": "C++",
-                "last_commit": "2026-08-25T00:09:28Z",
+                "last_commit": "2026-08-25T04:33:04Z",
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12110
+                "stars": 12112
               }
             },
             {
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:08:56.499Z",
+    "last_updated": "2026-08-25T05:55:38.615Z",
     "original_repository": "agucova/awesome-esp",
     "original_repository_id": 115279038,
     "original_repository_sha": "d6f4c9ba5fc4cddb54103aadd5dc88ef4c3f39dc",
