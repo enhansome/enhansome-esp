@@ -15,7 +15,7 @@
             "last_commit": "2026-08-27T05:42:12Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22012
+            "stars": 22013
           }
         },
         {
@@ -456,7 +456,7 @@
                 "last_commit": "2026-08-27T05:37:26Z",
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12135
+                "stars": 12136
               }
             },
             {
@@ -811,7 +811,7 @@
                 "archived": false,
                 "id": 290931862,
                 "language": "C++",
-                "last_commit": "2026-08-26T21:53:02Z",
+                "last_commit": "2026-08-27T11:56:31Z",
                 "owner": "doudar",
                 "repo": "SmartSpin2k",
                 "stars": 277
@@ -837,7 +837,7 @@
             "archived": false,
             "id": 212152900,
             "language": "C",
-            "last_commit": "2026-08-27T10:38:26Z",
+            "last_commit": "2026-08-27T12:36:43Z",
             "owner": "wasm3",
             "repo": "wasm3",
             "stars": 8002
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:41:33.773Z",
+    "last_updated": "2026-08-27T12:44:09.575Z",
     "original_repository_info": {
       "archived": false,
       "id": 115279038,

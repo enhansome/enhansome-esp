@@ -25,7 +25,7 @@ A curated list of awesome ESP8266/32 projects and code.
 
 ## Firmware
 
-* [MicroPython](https://github.com/micropython/micropython/) ⭐ 22,012 | 🐛 1,536 | 🌐 C | 📅 2026-08-27 - An implemention of Python3 for the ESP8266 and 32.
+* [MicroPython](https://github.com/micropython/micropython/) ⭐ 22,013 | 🐛 1,536 | 🌐 C | 📅 2026-08-27 - An implemention of Python3 for the ESP8266 and 32.
 * [RT-Thread](https://github.com/RT-Thread/rt-thread) ⭐ 12,171 | 🐛 493 | 🌐 C | 📅 2026-08-27 - Chinese open source firmware available for the ESP32.
 * [NodeMCU](https://github.com/nodemcu/nodemcu-firmware) ⭐ 7,943 | 🐛 119 | 🌐 C | 📅 2026-06-07 - An eLua-based firmware for the ESP8266.
 * [MongooseOS](https://github.com/cesanta/mongoose-os) ⭐ 2,662 | 🐛 97 | 🌐 C | 📅 2026-07-26 - An IoT specific firmware, with both C and JS. Available for the ESP32/8266.
@@ -39,7 +39,7 @@ A curated list of awesome ESP8266/32 projects and code.
 ## Tools
 
 * [Arduino Core/32](https://github.com/espressif/arduino-esp32) ⭐ 17,288 | 🐛 148 | 🌐 C++ | 📅 2026-08-27 - The other Arduino core for the ESP32.
-* [Arduino Core/8266](https://github.com/esp8266/arduino) ⭐ 16,668 | 🐛 403 | 🌐 C++ | 📅 2026-08-27 - The Arduino core for the ESP8266.
+* [Arduino Core/8266](https://github.com/esp8266/arduino) ⭐ 16,668 | 🐛 404 | 🌐 C++ | 📅 2026-08-27 - The Arduino core for the ESP8266.
 * [PlatformIO](https://github.com/platformio/platformio-core) ⭐ 9,428 | 🐛 309 | 🌐 Python | 📅 2026-08-25 - Cross Platform IDE and Debugger that supports both the ESP32 and ESP8266.
 * [ESPTool](https://github.com/espressif/esptool) ⭐ 6,457 | 🐛 15 | 🌐 Python | 📅 2026-08-26 - Espressif's command line tool for bootloader comms in both ESP's.
 * [Tuya-Convert](https://github.com/ct-Open-Source/tuya-convert) ⭐ 5,073 | 🐛 215 | 🌐 Python | 📅 2024-09-06 - A Wi-Fi firmware flasher ESP8266 that has been pre-loaded with Tuya firmware.
@@ -71,7 +71,7 @@ A curated list of awesome ESP8266/32 projects and code.
 ### InfoSec
 
 * [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther) ⭐ 14,944 | 🐛 99 | 🌐 C | 📅 2024-08-14 - A very cool pseudojammer (deauther) of Wifi networks that uses the ESP8266.
-* [ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,135 | 🐛 331 | 🌐 C++ | 📅 2026-08-27 - An integrated suite of offensive and defensive tools for WiFi and Bluetooth.
+* [ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,136 | 🐛 331 | 🌐 C++ | 📅 2026-08-27 - An integrated suite of offensive and defensive tools for WiFi and Bluetooth.
 * [WiFiDuck](https://github.com/spacehuhn/WiFiDuck) ⭐ 3,274 | 🐛 22 | 🌐 C++ | 📅 2023-06-02 - A wireless-enabled keystroke injector, analogous, but even more awesome than the Rubber Ducky.
 * [ESP8266 Beacon Spam](https://github.com/spacehuhn/esp8266_beaconSpam) ⭐ 1,366 | 🐛 25 | 🌐 C++ | 📅 2024-08-08 - Want to confuse people? This device creates hundreds of fake WiFi networks.
 * [DeauthDetector](https://github.com/spacehuhn/DeauthDetector) ⭐ 972 | 🐛 19 | 🌐 C++ | 📅 2023-08-28 - A small device that shines a light if it detects a WiFi deauth attack. Made by the same guy as the last six projects.
@@ -116,7 +116,7 @@ A curated list of awesome ESP8266/32 projects and code.
 * [FreeTouchDeck](https://github.com/DustinWatts/FreeTouchDeck) ⭐ 711 | 🐛 0 | 🌐 C | 📅 2024-05-22 - Open source touch macropad and stream control deck with built-in web configurator.
 * [E-TKT](https://github.com/andreisperid/E-TKT) ⭐ 473 | 🐛 20 | 🌐 C++ | 📅 2023-05-04 - An ESP32 powered DIY label maker that mixes both old fashioned and contemporary technology.
 * [WirelessPrinting](https://github.com/probonopd/WirelessPrinting) ⭐ 383 | 🐛 32 | 🌐 C++ | 📅 2023-04-24 - Print wirelessly from Cura, PrusaSlicer or Slic3r to your 3D printer connected to an ESP module.
-* [SmartSpin2k](https://github.com/doudar/SmartSpin2k) ⭐ 277 | 🐛 26 | 🌐 C++ | 📅 2026-08-26 - Transform your spin bike into a smart trainer with automatic resistance knob control in fitness apps like Zwift.
+* [SmartSpin2k](https://github.com/doudar/SmartSpin2k) ⭐ 277 | 🐛 26 | 🌐 C++ | 📅 2026-08-27 - Transform your spin bike into a smart trainer with automatic resistance knob control in fitness apps like Zwift.
 * [WLED](https://kno.wled.ge/) - Control many types of RGB(W) LED strips with an ESP8266 or ESP32 over WiFi.
 
 ## Libraries
