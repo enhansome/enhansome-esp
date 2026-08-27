@@ -12,10 +12,10 @@
             "archived": false,
             "id": 15337142,
             "language": "C",
-            "last_commit": "2026-08-25T05:06:29Z",
+            "last_commit": "2026-08-27T05:42:12Z",
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22010
+            "stars": 22012
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 7408108,
             "language": "C",
-            "last_commit": "2026-08-26T02:53:23Z",
+            "last_commit": "2026-08-27T03:48:49Z",
             "owner": "RT-Thread",
             "repo": "rt-thread",
-            "stars": 12169
+            "stars": 12171
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 70127218,
             "language": "C++",
-            "last_commit": "2026-08-26T03:09:37Z",
+            "last_commit": "2026-08-27T04:03:06Z",
             "owner": "espressif",
             "repo": "arduino-esp32",
-            "stars": 17283
+            "stars": 17288
           }
         },
         {
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 32969220,
             "language": "C++",
-            "last_commit": "2026-07-29T14:21:18Z",
+            "last_commit": "2026-08-27T11:20:57Z",
             "owner": "esp8266",
             "repo": "Arduino",
             "stars": 16668
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-25T11:35:00Z",
             "owner": "platformio",
             "repo": "platformio-core",
-            "stars": 9424
+            "stars": 9428
           }
         },
         {
@@ -168,7 +168,7 @@
             "archived": false,
             "id": 23736914,
             "language": "Python",
-            "last_commit": "2026-08-20T08:10:55Z",
+            "last_commit": "2026-08-26T12:10:47Z",
             "owner": "espressif",
             "repo": "esptool",
             "stars": 6457
@@ -231,7 +231,7 @@
             "last_commit": "2024-01-30T18:25:44Z",
             "owner": "tasmota",
             "repo": "tasmotizer",
-            "stars": 1537
+            "stars": 1538
           }
         },
         {
@@ -311,7 +311,7 @@
                 "archived": false,
                 "id": 68460326,
                 "language": "C++",
-                "last_commit": "2026-08-25T13:52:49Z",
+                "last_commit": "2026-08-26T13:13:31Z",
                 "owner": "1technophile",
                 "repo": "OpenMQTTGateway",
                 "stars": 4082
@@ -326,10 +326,10 @@
                 "archived": false,
                 "id": 42119846,
                 "language": "C++",
-                "last_commit": "2026-08-25T14:30:31Z",
+                "last_commit": "2026-08-27T07:48:16Z",
                 "owner": "letscontrolit",
                 "repo": "ESPEasy",
-                "stars": 3569
+                "stars": 3583
               }
             },
             {
@@ -359,7 +359,7 @@
                 "last_commit": "2022-08-04T13:41:38Z",
                 "owner": "sieren",
                 "repo": "Homepoint",
-                "stars": 661
+                "stars": 662
               }
             },
             {
@@ -441,7 +441,7 @@
                 "last_commit": "2024-08-14T17:38:08Z",
                 "owner": "SpacehuhnTech",
                 "repo": "esp8266_deauther",
-                "stars": 14942
+                "stars": 14944
               }
             },
             {
@@ -453,10 +453,10 @@
                 "archived": false,
                 "id": 208325027,
                 "language": "C++",
-                "last_commit": "2026-08-26T02:47:25Z",
+                "last_commit": "2026-08-27T05:37:26Z",
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12125
+                "stars": 12135
               }
             },
             {
@@ -590,7 +590,7 @@
                 "last_commit": "2026-07-30T12:15:10Z",
                 "owner": "sle118",
                 "repo": "squeezelite-esp32",
-                "stars": 2172
+                "stars": 2173
               }
             },
             {
@@ -605,7 +605,7 @@
                 "last_commit": "2024-10-21T09:34:05Z",
                 "owner": "Edzelf",
                 "repo": "ESP32-Radio",
-                "stars": 1065
+                "stars": 1066
               }
             },
             {
@@ -632,7 +632,7 @@
                 "archived": false,
                 "id": 237524395,
                 "language": "C++",
-                "last_commit": "2026-08-25T17:17:34Z",
+                "last_commit": "2026-08-27T08:07:25Z",
                 "owner": "biologist79",
                 "repo": "ESPuino",
                 "stars": 417
@@ -721,10 +721,10 @@
                 "archived": false,
                 "id": 145338929,
                 "language": "C",
-                "last_commit": "2026-08-24T21:22:15Z",
+                "last_commit": "2026-08-26T21:27:26Z",
                 "owner": "DroneBridge",
                 "repo": "ESP32",
-                "stars": 1078
+                "stars": 1079
               }
             },
             {
@@ -736,10 +736,10 @@
                 "archived": false,
                 "id": 48141669,
                 "language": "C",
-                "last_commit": "2026-08-25T06:05:54Z",
+                "last_commit": "2026-08-27T08:24:27Z",
                 "owner": "lyusupov",
                 "repo": "SoftRF",
-                "stars": 1005
+                "stars": 1007
               }
             },
             {
@@ -754,7 +754,7 @@
                 "last_commit": "2024-07-31T19:21:16Z",
                 "owner": "retro-esp32",
                 "repo": "RetroESP32",
-                "stars": 723
+                "stars": 724
               }
             },
             {
@@ -811,7 +811,7 @@
                 "archived": false,
                 "id": 290931862,
                 "language": "C++",
-                "last_commit": "2026-08-24T11:41:17Z",
+                "last_commit": "2026-08-26T21:53:02Z",
                 "owner": "doudar",
                 "repo": "SmartSpin2k",
                 "stars": 277
@@ -837,10 +837,10 @@
             "archived": false,
             "id": 212152900,
             "language": "C",
-            "last_commit": "2026-08-25T13:53:37Z",
+            "last_commit": "2026-08-27T10:38:26Z",
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 8001
+            "stars": 8002
           }
         },
         {
@@ -900,7 +900,7 @@
             "last_commit": "2026-08-24T02:56:55Z",
             "owner": "HomeSpan",
             "repo": "HomeSpan",
-            "stars": 2151
+            "stars": 2152
           }
         },
         {
@@ -942,10 +942,10 @@
             "archived": false,
             "id": 155110539,
             "language": "C",
-            "last_commit": "2026-08-24T12:06:49Z",
+            "last_commit": "2026-08-26T15:34:15Z",
             "owner": "schreibfaul1",
             "repo": "ESP32-audioI2S",
-            "stars": 1680
+            "stars": 1683
           }
         },
         {
@@ -1005,7 +1005,7 @@
             "last_commit": "2020-12-22T11:05:45Z",
             "owner": "tuanpmt",
             "repo": "esp_mqtt",
-            "stars": 1172
+            "stars": 1171
           }
         },
         {
@@ -1302,7 +1302,7 @@
             "archived": false,
             "id": 300847700,
             "language": "C++",
-            "last_commit": "2026-08-13T22:19:33Z",
+            "last_commit": "2026-08-27T10:24:20Z",
             "owner": "kike-canaries",
             "repo": "canairio_sensorlib",
             "stars": 45
@@ -1343,9 +1343,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:14:54.907Z",
-    "original_repository": "agucova/awesome-esp",
-    "original_repository_id": 115279038,
+    "last_updated": "2026-08-27T11:41:33.773Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 115279038,
+      "language": null,
+      "last_commit": "2026-05-09T14:45:25Z",
+      "owner": "agucova",
+      "repo": "awesome-esp",
+      "stars": 2639
+    },
     "original_repository_sha": "d6f4c9ba5fc4cddb54103aadd5dc88ef4c3f39dc",
     "enhanced_repository": "enhansome/enhansome-esp",
     "enhanced_repository_description": null,
