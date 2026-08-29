@@ -19,7 +19,7 @@
             "open_issues": 1534,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22019,
+            "stars": 22020,
             "topics": [
               "embedded",
               "microcontroller",
@@ -242,7 +242,7 @@
             "open_issues": 150,
             "owner": "espressif",
             "repo": "arduino-esp32",
-            "stars": 17295,
+            "stars": 17297,
             "topics": [
               "arduino",
               "esp-idf",
@@ -586,7 +586,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-27T07:48:16Z",
-                "open_issues": 380,
+                "open_issues": 381,
                 "owner": "letscontrolit",
                 "repo": "ESPEasy",
                 "stars": 3586,
@@ -843,11 +843,11 @@
                 "id": 208325027,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-08-29T03:57:15Z",
-                "open_issues": 332,
+                "last_commit": "2026-08-29T06:08:12Z",
+                "open_issues": 331,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12155,
+                "stars": 12157,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -1885,7 +1885,7 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-08-28T14:43:32Z",
-            "open_issues": 29,
+            "open_issues": 28,
             "owner": "schreibfaul1",
             "repo": "ESP32-audioI2S",
             "stars": 1683,
@@ -1923,7 +1923,7 @@
             "open_issues": 0,
             "owner": "ayushsharma82",
             "repo": "ESP-DASH",
-            "stars": 1399,
+            "stars": 1398,
             "topics": [
               "admin",
               "arduino",
@@ -2656,7 +2656,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:26:24.829Z",
+    "last_updated": "2026-08-29T08:58:15.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "📶 A curated list of awesome ESP8266/32 projects and code",
