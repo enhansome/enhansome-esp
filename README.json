@@ -15,11 +15,11 @@
             "id": 15337142,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T05:55:46Z",
-            "open_issues": 1526,
+            "last_commit": "2026-09-11T14:21:56Z",
+            "open_issues": 1524,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22054,
+            "stars": 22057,
             "topics": [
               "embedded",
               "microcontroller",
@@ -42,10 +42,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-09-11T05:26:28Z",
-            "open_issues": 490,
+            "open_issues": 495,
             "owner": "RT-Thread",
             "repo": "rt-thread",
-            "stars": 12207,
+            "stars": 12209,
             "topics": [
               "aiot",
               "arm",
@@ -141,7 +141,7 @@
             "open_issues": 5,
             "owner": "luc-github",
             "repo": "ESP3D",
-            "stars": 1994,
+            "stars": 1995,
             "topics": [
               "3d-printer",
               "arduino",
@@ -238,11 +238,11 @@
             "id": 70127218,
             "language": "C++",
             "license": "LGPL-2.1",
-            "last_commit": "2026-09-11T06:26:46Z",
-            "open_issues": 171,
+            "last_commit": "2026-09-12T07:05:06Z",
+            "open_issues": 174,
             "owner": "espressif",
             "repo": "arduino-esp32",
-            "stars": 17363,
+            "stars": 17370,
             "topics": [
               "arduino",
               "esp-idf",
@@ -267,7 +267,7 @@
             "open_issues": 405,
             "owner": "esp8266",
             "repo": "Arduino",
-            "stars": 16679,
+            "stars": 16680,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:41.515Z"
@@ -284,11 +284,11 @@
             "id": 19606299,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T10:09:07Z",
+            "last_commit": "2026-09-11T10:42:53Z",
             "open_issues": 278,
             "owner": "platformio",
             "repo": "platformio-core",
-            "stars": 9450,
+            "stars": 9452,
             "topics": [
               "arduino",
               "arm",
@@ -330,7 +330,7 @@
             "open_issues": 14,
             "owner": "espressif",
             "repo": "esptool",
-            "stars": 6470,
+            "stars": 6472,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:41.515Z"
@@ -498,7 +498,7 @@
             "open_issues": 41,
             "owner": "igrr",
             "repo": "esptool-ck",
-            "stars": 370,
+            "stars": 371,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:41.515Z"
@@ -544,11 +544,11 @@
                 "id": 68460326,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-08T00:51:51Z",
-                "open_issues": 47,
+                "last_commit": "2026-09-12T02:04:53Z",
+                "open_issues": 49,
                 "owner": "1technophile",
                 "repo": "OpenMQTTGateway",
-                "stars": 4091,
+                "stars": 4092,
                 "topics": [
                   "arduino",
                   "arduino-uno",
@@ -585,8 +585,8 @@
                 "id": 42119846,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T06:32:15Z",
-                "open_issues": 388,
+                "last_commit": "2026-09-11T20:54:52Z",
+                "open_issues": 389,
                 "owner": "letscontrolit",
                 "repo": "ESPEasy",
                 "stars": 3602,
@@ -843,11 +843,11 @@
                 "id": 208325027,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-09-10T21:51:24Z",
+                "last_commit": "2026-09-12T03:53:04Z",
                 "open_issues": 328,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 12314,
+                "stars": 12317,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -889,7 +889,7 @@
                 "open_issues": 22,
                 "owner": "SpacehuhnTech",
                 "repo": "WiFiDuck",
-                "stars": 3296,
+                "stars": 3301,
                 "topics": [
                   "arduino",
                   "esp8266",
@@ -1006,7 +1006,7 @@
                 "open_issues": 7,
                 "owner": "spacehuhn",
                 "repo": "PacketMonitor32",
-                "stars": 403,
+                "stars": 404,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:17:41.515Z"
@@ -1125,7 +1125,7 @@
                 "open_issues": 92,
                 "owner": "sle118",
                 "repo": "squeezelite-esp32",
-                "stars": 2190,
+                "stars": 2191,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:17:41.515Z"
@@ -1167,7 +1167,7 @@
                 "open_issues": 48,
                 "owner": "alf45tar",
                 "repo": "PedalinoMini",
-                "stars": 616,
+                "stars": 617,
                 "topics": [
                   "applemidi",
                   "ble",
@@ -1411,7 +1411,7 @@
                 "open_issues": 0,
                 "owner": "lyusupov",
                 "repo": "SoftRF",
-                "stars": 1016,
+                "stars": 1018,
                 "topics": [
                   "ads-b",
                   "aprs",
@@ -1640,7 +1640,7 @@
             "open_issues": 18,
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 8024,
+            "stars": 8025,
             "topics": [
               "containers",
               "cosmopolitan",
@@ -1672,10 +1672,10 @@
             "language": "C++",
             "license": "LGPL-2.1",
             "last_commit": "2026-08-23T12:23:51Z",
-            "open_issues": 103,
+            "open_issues": 104,
             "owner": "crankyoldgit",
             "repo": "IRremoteESP8266",
-            "stars": 3594,
+            "stars": 3596,
             "topics": [
               "940nm",
               "airconditioners",
@@ -1715,7 +1715,7 @@
             "open_issues": 0,
             "owner": "earlephilhower",
             "repo": "ESP8266Audio",
-            "stars": 2396,
+            "stars": 2398,
             "topics": [
               "aac",
               "arduino",
@@ -1855,7 +1855,7 @@
             "open_issues": 16,
             "owner": "LedFx",
             "repo": "LedFx",
-            "stars": 2045,
+            "stars": 2047,
             "topics": [
               "audio-processing",
               "e131",
@@ -1885,10 +1885,10 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-09-10T15:35:59Z",
-            "open_issues": 17,
+            "open_issues": 16,
             "owner": "schreibfaul1",
             "repo": "ESP32-audioI2S",
-            "stars": 1691,
+            "stars": 1692,
             "topics": [
               "aac",
               "cs4344",
@@ -2656,7 +2656,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T07:14:30.121Z",
+    "last_updated": "2026-09-12T07:06:51.683Z",
     "original_repository_info": {
       "archived": false,
       "description": "📶 A curated list of awesome ESP8266/32 projects and code",
@@ -2668,7 +2668,7 @@
       "open_issues": 24,
       "owner": "agucova",
       "repo": "awesome-esp",
-      "stars": 2674,
+      "stars": 2677,
       "topics": [
         "arduino",
         "awesome",
