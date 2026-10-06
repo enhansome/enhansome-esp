@@ -239,7 +239,7 @@
             "language": "C++",
             "license": "LGPL-2.1",
             "last_commit": "2026-10-06T00:34:27Z",
-            "open_issues": 109,
+            "open_issues": 110,
             "owner": "espressif",
             "repo": "arduino-esp32",
             "stars": 17478,
@@ -267,7 +267,7 @@
             "open_issues": 407,
             "owner": "esp8266",
             "repo": "Arduino",
-            "stars": 16694,
+            "stars": 16692,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:41.515Z"
@@ -326,7 +326,7 @@
             "id": 23736914,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-06T08:03:43Z",
+            "last_commit": "2026-10-06T09:11:26Z",
             "open_issues": 18,
             "owner": "espressif",
             "repo": "esptool",
@@ -1125,7 +1125,7 @@
                 "open_issues": 91,
                 "owner": "sle118",
                 "repo": "squeezelite-esp32",
-                "stars": 2207,
+                "stars": 2208,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:17:41.515Z"
@@ -1411,7 +1411,7 @@
                 "open_issues": 0,
                 "owner": "lyusupov",
                 "repo": "SoftRF",
-                "stars": 1027,
+                "stars": 1028,
                 "topics": [
                   "ads-b",
                   "aprs",
@@ -2656,7 +2656,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T08:53:36.080Z",
+    "last_updated": "2026-10-06T10:16:54.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "📶 A curated list of awesome ESP8266/32 projects and code",

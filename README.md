@@ -38,8 +38,8 @@ A curated list of awesome ESP8266/32 projects and code.
 
 ## Tools
 
-* [Arduino Core/32](https://github.com/espressif/arduino-esp32) ⭐ 17,478 | 🐛 109 | 🌐 C++ | 📅 2026-10-06 - The other Arduino core for the ESP32.
-* [Arduino Core/8266](https://github.com/esp8266/arduino) ⭐ 16,694 | 🐛 407 | 🌐 C++ | 📅 2026-08-27 - The Arduino core for the ESP8266.
+* [Arduino Core/32](https://github.com/espressif/arduino-esp32) ⭐ 17,478 | 🐛 110 | 🌐 C++ | 📅 2026-10-06 - The other Arduino core for the ESP32.
+* [Arduino Core/8266](https://github.com/esp8266/arduino) ⭐ 16,692 | 🐛 407 | 🌐 C++ | 📅 2026-08-27 - The Arduino core for the ESP8266.
 * [PlatformIO](https://github.com/platformio/platformio-core) ⭐ 9,503 | 🐛 278 | 🌐 Python | 📅 2026-09-23 - Cross Platform IDE and Debugger that supports both the ESP32 and ESP8266.
 * [ESPTool](https://github.com/espressif/esptool) ⭐ 6,507 | 🐛 18 | 🌐 Python | 📅 2026-10-06 - Espressif's command line tool for bootloader comms in both ESP's.
 * [Tuya-Convert](https://github.com/ct-Open-Source/tuya-convert) ⭐ 5,081 | 🐛 215 | 🌐 Python | 📅 2024-09-06 - A Wi-Fi firmware flasher ESP8266 that has been pre-loaded with Tuya firmware.
@@ -93,7 +93,7 @@ A curated list of awesome ESP8266/32 projects and code.
 
 ### Music and Audio
 
-* [Squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) ⭐ 2,207 | 🐛 91 | 🌐 C | 📅 2026-10-05 - Streaming audio receiver with multi-room sync, AirPlay, Bluetooth, hardware buttons, display and more.
+* [Squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) ⭐ 2,208 | 🐛 91 | 🌐 C | 📅 2026-10-05 - Streaming audio receiver with multi-room sync, AirPlay, Bluetooth, hardware buttons, display and more.
 * [ESP32-Radio](https://github.com/Edzelf/ESP32-Radio) ⭐ 1,073 | 🐛 343 | 🌐 C++ | 📅 2024-10-21 - Internet radio based on ESP32, VS1053 and a TFT screen.
 * [PedalinoMini](https://github.com/alf45tar/PedalinoMini) ⭐ 620 | 🐛 48 | 🌐 Python | 📅 2026-05-04 - A wireless MIDI pedal controller for guitarists, built with the ESP32.
 * [ESPuino](https://github.com/biologist79/ESPuino) ⭐ 428 | 🐛 2 | 🌐 C++ | 📅 2026-09-29 - RFID-controlled music player powered by ESP32.
@@ -111,7 +111,7 @@ A curated list of awesome ESP8266/32 projects and code.
 ### Others
 
 * [DroneBridge](https://github.com/DroneBridge/ESP32) ⭐ 1,116 | 🐛 7 | 🌐 C | 📅 2026-09-12 - An implementation of DroneBridge, a signal link for drones and UAV's on the ESP32.
-* [SoftRF](https://github.com/lyusupov/SoftRF) ⭐ 1,027 | 🐛 0 | 🌐 C | 📅 2026-10-06 - A DIY aviation proximity awareness system that can be used in UAV projects.
+* [SoftRF](https://github.com/lyusupov/SoftRF) ⭐ 1,028 | 🐛 0 | 🌐 C | 📅 2026-10-06 - A DIY aviation proximity awareness system that can be used in UAV projects.
 * [Retro ESP32](https://github.com/retro-esp32/RetroESP32) ⭐ 734 | 🐛 21 | 🌐 C | 📅 2024-07-31 - An extremely cool launcher for the Odroid Go (with the ESP32), which allows emulating several retro consoles.
 * [FreeTouchDeck](https://github.com/DustinWatts/FreeTouchDeck) ⭐ 712 | 🐛 0 | 🌐 C | 📅 2024-05-22 - Open source touch macropad and stream control deck with built-in web configurator.
 * [E-TKT](https://github.com/andreisperid/E-TKT) ⭐ 479 | 🐛 20 | 🌐 C++ | 📅 2023-05-04 - An ESP32 powered DIY label maker that mixes both old fashioned and contemporary technology.
