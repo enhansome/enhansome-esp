@@ -25,12 +25,12 @@ A curated list of awesome ESP8266/32 projects and code.
 
 ## Firmware
 
-* [MicroPython](https://github.com/micropython/micropython/) ⭐ 22,117 | 🐛 1,532 | 🌐 C | 📅 2026-10-13 - An implemention of Python3 for the ESP8266 and 32.
-* [RT-Thread](https://github.com/RT-Thread/rt-thread) ⭐ 12,276 | 🐛 504 | 🌐 C | 📅 2026-10-12 - Chinese open source firmware available for the ESP32.
-* [NodeMCU](https://github.com/nodemcu/nodemcu-firmware) ⭐ 7,949 | 🐛 119 | 🌐 C | 📅 2026-06-07 - An eLua-based firmware for the ESP8266.
+* [MicroPython](https://github.com/micropython/micropython/) ⭐ 22,124 | 🐛 1,529 | 🌐 C | 📅 2026-10-14 - An implemention of Python3 for the ESP8266 and 32.
+* [RT-Thread](https://github.com/RT-Thread/rt-thread) ⭐ 12,281 | 🐛 495 | 🌐 C | 📅 2026-10-14 - Chinese open source firmware available for the ESP32.
+* [NodeMCU](https://github.com/nodemcu/nodemcu-firmware) ⭐ 7,950 | 🐛 119 | 🌐 C | 📅 2026-06-07 - An eLua-based firmware for the ESP8266.
 * [MongooseOS](https://github.com/cesanta/mongoose-os) ⭐ 2,666 | 🐛 97 | 🌐 C | 📅 2026-09-30 - An IoT specific firmware, with both C and JS. Available for the ESP32/8266.
 * [ESP3D](https://github.com/luc-github/ESP3D) ⭐ 1,998 | 🐛 5 | 🌐 C | 📅 2026-09-26 - An experimental firmware for 3D Printers, both the ESP32 and 8266.
-* [Sming Framework](https://github.com/SmingHub/Sming) ⭐ 1,569 | 🐛 82 | 🌐 C++ | 📅 2026-10-09 - Superb C/C++ IoT Framework with support for ESP8266 and ESP32.
+* [Sming Framework](https://github.com/SmingHub/Sming) ⭐ 1,569 | 🐛 83 | 🌐 C++ | 📅 2026-10-09 - Superb C/C++ IoT Framework with support for ESP8266 and ESP32.
 * [Frankenstein](https://github.com/nekromant/esp8266-frankenstein) ⭐ 326 | 🐛 7 | 🌐 C | 📅 2020-06-03 - A quick and dirty firmware with cool features for the ESP8266.
 * [Espressif AT](http://bbs.espressif.com/) - The default vanilla firmware for the ESP8266.
 * [ESPBasic](http://www.esp8266basic.com/) - A BASIC firmware for easy and wireless programming, ready for the 8266.
@@ -38,15 +38,15 @@ A curated list of awesome ESP8266/32 projects and code.
 
 ## Tools
 
-* [Arduino Core/32](https://github.com/espressif/arduino-esp32) ⭐ 17,518 | 🐛 108 | 🌐 C++ | 📅 2026-10-13 - The other Arduino core for the ESP32.
-* [Arduino Core/8266](https://github.com/esp8266/arduino) ⭐ 16,688 | 🐛 408 | 🌐 C++ | 📅 2026-08-27 - The Arduino core for the ESP8266.
-* [PlatformIO](https://github.com/platformio/platformio-core) ⭐ 9,522 | 🐛 279 | 🌐 Python | 📅 2026-09-23 - Cross Platform IDE and Debugger that supports both the ESP32 and ESP8266.
-* [ESPTool](https://github.com/espressif/esptool) ⭐ 6,511 | 🐛 18 | 🌐 Python | 📅 2026-10-13 - Espressif's command line tool for bootloader comms in both ESP's.
-* [Tuya-Convert](https://github.com/ct-Open-Source/tuya-convert) ⭐ 5,085 | 🐛 215 | 🌐 Python | 📅 2024-09-06 - A Wi-Fi firmware flasher ESP8266 that has been pre-loaded with Tuya firmware.
+* [Arduino Core/32](https://github.com/espressif/arduino-esp32) ⭐ 17,536 | 🐛 108 | 🌐 C++ | 📅 2026-10-14 - The other Arduino core for the ESP32.
+* [Arduino Core/8266](https://github.com/esp8266/arduino) ⭐ 16,689 | 🐛 409 | 🌐 C++ | 📅 2026-08-27 - The Arduino core for the ESP8266.
+* [PlatformIO](https://github.com/platformio/platformio-core) ⭐ 9,526 | 🐛 279 | 🌐 Python | 📅 2026-09-23 - Cross Platform IDE and Debugger that supports both the ESP32 and ESP8266.
+* [ESPTool](https://github.com/espressif/esptool) ⭐ 6,512 | 🐛 18 | 🌐 Python | 📅 2026-10-13 - Espressif's command line tool for bootloader comms in both ESP's.
+* [Tuya-Convert](https://github.com/ct-Open-Source/tuya-convert) ⭐ 5,087 | 🐛 215 | 🌐 Python | 📅 2024-09-06 - A Wi-Fi firmware flasher ESP8266 that has been pre-loaded with Tuya firmware.
 * [NodeMCU Flasher](https://github.com/nodemcu/nodemcu-flasher) ⭐ 2,220 | 🐛 47 | 🌐 Pascal | 📅 2017-08-08 - The official flashing tool for the NodeMCU OS.
 * [ESP-Open-SDK](https://github.com/pfalcon/esp-open-sdk) ⭐ 1,988 | 🐛 139 | 🌐 Makefile | 📅 2022-01-12 - An open SDK for the ESP8266.
 * [Tasmotizer](https://github.com/tasmota/tasmotizer) ⭐ 1,541 | 🐛 38 | 🌐 Python | 📅 2024-01-30 - A graphical flashing tool for Tasmota firmware. Can manage Wi-Fi & MQTT settings, modules & templates.
-* [LuaNode](https://github.com/Nicholas3388/LuaNode) ⭐ 1,337 | 🐛 36 | 🌐 C | 📅 2024-05-30 - A lua-only SDK for 32/8266.
+* [LuaNode](https://github.com/Nicholas3388/LuaNode) ⭐ 1,338 | 🐛 36 | 🌐 C | 📅 2024-05-30 - A lua-only SDK for 32/8266.
 * [Arduino FS Plugin](https://github.com/esp8266/arduino-esp8266fs-plugin) ⭐ 736 | 🐛 58 | 🌐 Java | 📅 2022-11-30 - An Arduino plugin for filesystem uploads in the 8266.
 * [ESPTool-ck](https://github.com/igrr/esptool-ck) ⭐ 371 | 🐛 41 | 🌐 C | 📅 2020-12-21 - A CLI tool for flashing in the ESP8266.
 * [ESPTool-gui](https://github.com/Rodmg/esptool-gui) ⭐ 204 | 🐛 0 | 🌐 C++ | 📅 2022-09-19 - A flashing GUI tool based on ESPTool-ck.
@@ -56,8 +56,8 @@ A curated list of awesome ESP8266/32 projects and code.
 
 ### Smart Home and IoT
 
-* [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) ⭐ 4,103 | 🐛 48 | 🌐 C++ | 📅 2026-10-13 - An implementation of a multiprotocol MQTT gateway for both ESP's among other devices.
-* [ESPEasy](https://github.com/letscontrolit/ESPEasy) ⭐ 3,619 | 🐛 383 | 🌐 C++ | 📅 2026-10-10 - Easily turn ESP modules into multifunction sensor devices for home automation systems.
+* [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) ⭐ 4,105 | 🐛 49 | 🌐 C++ | 📅 2026-10-13 - An implementation of a multiprotocol MQTT gateway for both ESP's among other devices.
+* [ESPEasy](https://github.com/letscontrolit/ESPEasy) ⭐ 3,619 | 🐛 385 | 🌐 C++ | 📅 2026-10-10 - Easily turn ESP modules into multifunction sensor devices for home automation systems.
 * [Sonoff-Homekit](https://github.com/Gruppio/Sonoff-Homekit) ⭐ 1,005 | 🐛 2 | 🌐 C | 📅 2025-04-16 - An alternative firmware for Sonoff devices (and other 8266 devices) which allows control through Apple's Homekit.
 * [HomePoint](https://github.com/sieren/Homepoint) ⭐ 662 | 🐛 29 | 🌐 C | 📅 2022-08-04 - Control MQTT/HomeKit smart home devices from an ESP32-powered screen.
 * [SuperGreenOS](https://github.com/supergreenlab/SuperGreenOS) ⭐ 222 | 🐛 0 | 🌐 C | 📅 2024-06-05 - A full-featured home farming automation software for the ESP32.
@@ -70,14 +70,14 @@ A curated list of awesome ESP8266/32 projects and code.
 
 ### InfoSec
 
-* [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther) ⭐ 15,024 | 🐛 100 | 🌐 C | 📅 2024-08-14 - A very cool pseudojammer (deauther) of Wifi networks that uses the ESP8266.
-* [ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,739 | 🐛 286 | 🌐 C++ | 📅 2026-10-10 - An integrated suite of offensive and defensive tools for WiFi and Bluetooth.
-* [WiFiDuck](https://github.com/spacehuhn/WiFiDuck) ⭐ 3,324 | 🐛 22 | 🌐 C++ | 📅 2023-06-02 - A wireless-enabled keystroke injector, analogous, but even more awesome than the Rubber Ducky.
+* [ESP8266 Deauther](https://github.com/spacehuhn/esp8266_deauther) ⭐ 15,028 | 🐛 100 | 🌐 C | 📅 2024-08-14 - A very cool pseudojammer (deauther) of Wifi networks that uses the ESP8266.
+* [ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) ⭐ 12,766 | 🐛 293 | 🌐 C++ | 📅 2026-10-13 - An integrated suite of offensive and defensive tools for WiFi and Bluetooth.
+* [WiFiDuck](https://github.com/spacehuhn/WiFiDuck) ⭐ 3,327 | 🐛 22 | 🌐 C++ | 📅 2023-06-02 - A wireless-enabled keystroke injector, analogous, but even more awesome than the Rubber Ducky.
 * [ESP8266 Beacon Spam](https://github.com/spacehuhn/esp8266_beaconSpam) ⭐ 1,382 | 🐛 25 | 🌐 C++ | 📅 2024-08-08 - Want to confuse people? This device creates hundreds of fake WiFi networks.
-* [DeauthDetector](https://github.com/spacehuhn/DeauthDetector) ⭐ 983 | 🐛 19 | 🌐 C++ | 📅 2023-08-28 - A small device that shines a light if it detects a WiFi deauth attack. Made by the same guy as the last six projects.
+* [DeauthDetector](https://github.com/spacehuhn/DeauthDetector) ⭐ 984 | 🐛 19 | 🌐 C++ | 📅 2023-08-28 - A small device that shines a light if it detects a WiFi deauth attack. Made by the same guy as the last six projects.
 * [ArduinoPcap](https://github.com/spacehuhn/ArduinoPcap) ⭐ 464 | 🐛 15 | 🌐 C++ | 📅 2024-03-03 - A library which allows generation of .pcap files with network traffic, for both ESP's.
 * [PacketMonitor](https://github.com/spacehuhn/PacketMonitor32) ⭐ 406 | 🐛 7 | 🌐 C++ | 📅 2020-11-20 - A beautiful OLED monitor for packet activity in a WiFi channel. Two versions for each ESP.
-* [ESP32-BLECollector](https://github.com/tobozo/ESP32-BLECollector) ⭐ 368 | 🐛 1 | 🌐 C | 📅 2024-09-04 - A wardriving device which displays BLE devices and collects data from them, all in a nice screen interface.
+* [ESP32-BLECollector](https://github.com/tobozo/ESP32-BLECollector) ⭐ 369 | 🐛 1 | 🌐 C | 📅 2024-09-04 - A wardriving device which displays BLE devices and collects data from them, all in a nice screen interface.
 * [WiFi Satellite](https://hackaday.io/project/28831-wifi-satellite-34c3) - A giant Wifi "satellite" that can monitor all 14 2.4Ghz channels using, well, 14 ESP32s.
 
 ### Biomedical
@@ -87,17 +87,17 @@ A curated list of awesome ESP8266/32 projects and code.
 
 ### LoRa
 
-* [ESP32-Paxcounter](https://github.com/cyberman54/ESP32-Paxcounter#esp32-paxcounter) ⭐ 2,109 | 🐛 19 | 🌐 C++ | 📅 2026-10-04 - Wifi & Bluetooth driven, LoRaWAN enabled, battery powered mini Paxcounter built on cheap ESP32 LoRa IoT boards.
+* [ESP32-Paxcounter](https://github.com/cyberman54/ESP32-Paxcounter#esp32-paxcounter) ⭐ 2,110 | 🐛 19 | 🌐 C++ | 📅 2026-10-04 - Wifi & Bluetooth driven, LoRaWAN enabled, battery powered mini Paxcounter built on cheap ESP32 LoRa IoT boards.
 * [Meshtastic](https://www.meshtastic.org/) - ESP32 LoRA boards as secure, long battery life, mesh GPS communicators.
 * [Disaster Radio](https://disaster.radio/) - A disaster-resilient communications network powered by the sun.
 
 ### Music and Audio
 
-* [Squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) ⭐ 2,214 | 🐛 70 | 🌐 C | 📅 2026-10-11 - Streaming audio receiver with multi-room sync, AirPlay, Bluetooth, hardware buttons, display and more.
+* [Squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) ⭐ 2,215 | 🐛 70 | 🌐 C | 📅 2026-10-11 - Streaming audio receiver with multi-room sync, AirPlay, Bluetooth, hardware buttons, display and more.
 * [ESP32-Radio](https://github.com/Edzelf/ESP32-Radio) ⭐ 1,075 | 🐛 343 | 🌐 C++ | 📅 2024-10-21 - Internet radio based on ESP32, VS1053 and a TFT screen.
 * [PedalinoMini](https://github.com/alf45tar/PedalinoMini) ⭐ 622 | 🐛 48 | 🌐 Python | 📅 2026-05-04 - A wireless MIDI pedal controller for guitarists, built with the ESP32.
-* [ESPuino](https://github.com/biologist79/ESPuino) ⭐ 432 | 🐛 2 | 🌐 C++ | 📅 2026-10-08 - RFID-controlled music player powered by ESP32.
-* [Alles](https://github.com/bwhitman/alles) ⭐ 323 | 🐛 2 | 🌐 C | 📅 2024-11-04 - A many speaker distributed music synthesizer using UDP multicast over WiFi, modeled after the alles machine/AMY.
+* [ESPuino](https://github.com/biologist79/ESPuino) ⭐ 433 | 🐛 2 | 🌐 C++ | 📅 2026-10-08 - RFID-controlled music player powered by ESP32.
+* [Alles](https://github.com/bwhitman/alles) ⭐ 324 | 🐛 2 | 🌐 C | 📅 2024-11-04 - A many speaker distributed music synthesizer using UDP multicast over WiFi, modeled after the alles machine/AMY.
 * [ThingPulse esp8266-spotify-remote](https://github.com/ThingPulse/esp8266-spotify-remote) ⭐ 276 | 🐛 1 | 🌐 C | 📅 2023-09-30 - Control your Spotify player from a ESP8266 with color touch display.
 * [Knobby](https://github.com/quadule/knobby) ⭐ 215 | 🐛 1 | 🌐 C | 📅 2025-12-14 - A handheld Spotify remote that encourages you to explore unfamiliar music.
 
@@ -111,9 +111,9 @@ A curated list of awesome ESP8266/32 projects and code.
 ### Others
 
 * [DroneBridge](https://github.com/DroneBridge/ESP32) ⭐ 1,121 | 🐛 7 | 🌐 C | 📅 2026-09-12 - An implementation of DroneBridge, a signal link for drones and UAV's on the ESP32.
-* [SoftRF](https://github.com/lyusupov/SoftRF) ⭐ 1,030 | 🐛 0 | 🌐 C | 📅 2026-10-12 - A DIY aviation proximity awareness system that can be used in UAV projects.
-* [Retro ESP32](https://github.com/retro-esp32/RetroESP32) ⭐ 735 | 🐛 21 | 🌐 C | 📅 2024-07-31 - An extremely cool launcher for the Odroid Go (with the ESP32), which allows emulating several retro consoles.
-* [FreeTouchDeck](https://github.com/DustinWatts/FreeTouchDeck) ⭐ 713 | 🐛 0 | 🌐 C | 📅 2024-05-22 - Open source touch macropad and stream control deck with built-in web configurator.
+* [SoftRF](https://github.com/lyusupov/SoftRF) ⭐ 1,030 | 🐛 0 | 🌐 C | 📅 2026-10-13 - A DIY aviation proximity awareness system that can be used in UAV projects.
+* [Retro ESP32](https://github.com/retro-esp32/RetroESP32) ⭐ 736 | 🐛 21 | 🌐 C | 📅 2024-07-31 - An extremely cool launcher for the Odroid Go (with the ESP32), which allows emulating several retro consoles.
+* [FreeTouchDeck](https://github.com/DustinWatts/FreeTouchDeck) ⭐ 711 | 🐛 0 | 🌐 C | 📅 2024-05-22 - Open source touch macropad and stream control deck with built-in web configurator.
 * [E-TKT](https://github.com/andreisperid/E-TKT) ⭐ 480 | 🐛 20 | 🌐 C++ | 📅 2023-05-04 - An ESP32 powered DIY label maker that mixes both old fashioned and contemporary technology.
 * [WirelessPrinting](https://github.com/probonopd/WirelessPrinting) ⭐ 383 | 🐛 32 | 🌐 C++ | 📅 2023-04-24 - Print wirelessly from Cura, PrusaSlicer or Slic3r to your 3D printer connected to an ESP module.
 * [SmartSpin2k](https://github.com/doudar/SmartSpin2k) ⭐ 288 | 🐛 28 | 🌐 C++ | 📅 2026-10-13 - Transform your spin bike into a smart trainer with automatic resistance knob control in fitness apps like Zwift.
@@ -121,18 +121,18 @@ A curated list of awesome ESP8266/32 projects and code.
 
 ## Libraries
 
-* [Wasm3](https://github.com/wasm3/wasm3) ⭐ 8,047 | 🐛 18 | 🌐 C | 📅 2026-09-30 - A lightning fast WebAssembly interpreter designed for embedded devices, compatible with both ESP's.
-* [IRremoteESP8266](https://github.com/markszabo/IRremoteESP8266) ⭐ 3,629 | 🐛 112 | 🌐 C++ | 📅 2026-08-23 - Emit and receive IR signals in the ESP8266.
+* [Wasm3](https://github.com/wasm3/wasm3) ⭐ 8,050 | 🐛 18 | 🌐 C | 📅 2026-09-30 - A lightning fast WebAssembly interpreter designed for embedded devices, compatible with both ESP's.
+* [IRremoteESP8266](https://github.com/markszabo/IRremoteESP8266) ⭐ 3,629 | 🐛 113 | 🌐 C++ | 📅 2026-08-23 - Emit and receive IR signals in the ESP8266.
 * [ESPAudio](https://github.com/earlephilhower/ESP8266Audio) ⭐ 2,406 | 🐛 0 | 🌐 C | 📅 2026-10-07 - Library for playing a diverse range of audio formats in the ESP8266/ESP32.
-* [TinyGSM](https://github.com/vshymanskyy/TinyGSM) ⭐ 2,222 | 🐛 356 | 🌐 C++ | 📅 2026-07-21 - A quick and simple Arduino library for interaction with GSM modules which can also control the 8266 through AT commands.
-* [HomeSpan](https://github.com/HomeSpan/HomeSpan) ⭐ 2,182 | 🐛 10 | 🌐 C++ | 📅 2026-09-15 - A robust and extremely easy-to-use Arduino library for creating your own ESP32-based HomeKit devices.
-* [LedFx](https://github.com/LedFx/LedFx) ⭐ 2,073 | 🐛 84 | 🌐 Python | 📅 2026-10-12 - A library for using audio input to create realtime light shows. LedFx can control multiple devices and works great with cheap ESP8266 nodes.
-* [mJS](https://github.com/cesanta/mjs) ⭐ 2,059 | 🐛 197 | 🌐 C | 📅 2026-09-30 - A lightweight and restricted JS engine that is used by MongooseOS, compatible on the 32 and 8266.
-* [ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S) ⭐ 1,705 | 🐛 11 | 🌐 C | 📅 2026-10-12 - Plays mp3, m4a and wav files from SD card or stream via I2S interface.
+* [TinyGSM](https://github.com/vshymanskyy/TinyGSM) ⭐ 2,223 | 🐛 356 | 🌐 C++ | 📅 2026-07-21 - A quick and simple Arduino library for interaction with GSM modules which can also control the 8266 through AT commands.
+* [HomeSpan](https://github.com/HomeSpan/HomeSpan) ⭐ 2,184 | 🐛 10 | 🌐 C++ | 📅 2026-09-15 - A robust and extremely easy-to-use Arduino library for creating your own ESP32-based HomeKit devices.
+* [LedFx](https://github.com/LedFx/LedFx) ⭐ 2,074 | 🐛 84 | 🌐 Python | 📅 2026-10-12 - A library for using audio input to create realtime light shows. LedFx can control multiple devices and works great with cheap ESP8266 nodes.
+* [mJS](https://github.com/cesanta/mjs) ⭐ 2,061 | 🐛 196 | 🌐 C | 📅 2026-09-30 - A lightweight and restricted JS engine that is used by MongooseOS, compatible on the 32 and 8266.
+* [ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S) ⭐ 1,706 | 🐛 11 | 🌐 C | 📅 2026-10-12 - Plays mp3, m4a and wav files from SD card or stream via I2S interface.
 * [ESP-Dash](https://github.com/ayushsharma82/ESP-DASH) ⭐ 1,412 | 🐛 0 | 🌐 C++ | 📅 2025-11-22 - Beautiful and fast framework for creating remote dashboards in the 8266/32. No internet required.
 * [Homie8266](https://github.com/marvinroger/homie-esp8266) ⭐ 1,373 | 🐛 89 | 🌐 HTML | 📅 2026-03-06 - Framework implementation of the Homie protocol for the 8266.
-* [GUIslice](https://github.com/ImpulseAdventure/GUIslice) ⭐ 1,369 | 🐛 48 | 🌐 C | 📅 2026-07-14 - A drag and drop GUI framework for several devices and screen controllers. Compatible with 8266 and 32.
-* [ESP\_mqtt](https://github.com/tuanpmt/esp_mqtt) ⭐ 1,168 | 🐛 41 | 🌐 C | 📅 2020-12-22 - MQTT helper library for the ESP8266.
+* [GUIslice](https://github.com/ImpulseAdventure/GUIslice) ⭐ 1,370 | 🐛 48 | 🌐 C | 📅 2026-07-14 - A drag and drop GUI framework for several devices and screen controllers. Compatible with 8266 and 32.
+* [ESP\_mqtt](https://github.com/tuanpmt/esp_mqtt) ⭐ 1,169 | 🐛 41 | 🌐 C | 📅 2020-12-22 - MQTT helper library for the ESP8266.
 * [ESP-HomeKit](https://github.com/maximkulkin/esp-homekit) ⭐ 1,168 | 🐛 33 | 🌐 C | 📅 2023-12-18 - Homekit implementation for 8266 on RTOS.
 * [ESPUI](https://github.com/s00500/ESPUI) ⭐ 1,131 | 🐛 53 | 🌐 C++ | 📅 2026-04-30 - A simply library for making interactive web interfaces for both ESP's.
 * [AsyncTCP](https://github.com/me-no-dev/ESPAsyncTCP) ⚠️ Archived - Asynchronous TCP Library for both the 8266 and the 32.
@@ -159,4 +159,4 @@ A curated list of awesome ESP8266/32 projects and code.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
