@@ -16,10 +16,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-11T05:13:44Z",
-            "open_issues": 1589,
+            "open_issues": 1594,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22188,
+            "stars": 22191,
             "topics": [
               "embedded",
               "microcontroller",
@@ -41,11 +41,11 @@
             "id": 7408108,
             "language": "C",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T01:44:25Z",
-            "open_issues": 514,
+            "last_commit": "2026-11-12T07:51:20Z",
+            "open_issues": 522,
             "owner": "RT-Thread",
             "repo": "rt-thread",
-            "stars": 12346,
+            "stars": 12347,
             "topics": [
               "aiot",
               "arm",
@@ -80,7 +80,7 @@
             "open_issues": 120,
             "owner": "nodemcu",
             "repo": "nodemcu-firmware",
-            "stars": 7955,
+            "stars": 7956,
             "topics": [
               "esp32",
               "esp8266",
@@ -238,11 +238,11 @@
             "id": 70127218,
             "language": "C++",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-11T01:39:38Z",
-            "open_issues": 79,
+            "last_commit": "2026-11-12T01:28:55Z",
+            "open_issues": 77,
             "owner": "espressif",
             "repo": "arduino-esp32",
-            "stars": 17710,
+            "stars": 17714,
             "topics": [
               "arduino",
               "esp-idf",
@@ -267,7 +267,7 @@
             "open_issues": 409,
             "owner": "esp8266",
             "repo": "Arduino",
-            "stars": 16714,
+            "stars": 16717,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:41.515Z"
@@ -285,10 +285,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-09T10:22:57Z",
-            "open_issues": 290,
+            "open_issues": 291,
             "owner": "platformio",
             "repo": "platformio-core",
-            "stars": 9596,
+            "stars": 9598,
             "topics": [
               "arduino",
               "arm",
@@ -326,11 +326,11 @@
             "id": 23736914,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-09T13:35:30Z",
+            "last_commit": "2026-11-11T14:55:11Z",
             "open_issues": 18,
             "owner": "espressif",
             "repo": "esptool",
-            "stars": 6547,
+            "stars": 6549,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:41.515Z"
@@ -351,7 +351,7 @@
             "open_issues": 215,
             "owner": "ct-Open-Source",
             "repo": "tuya-convert",
-            "stars": 5098,
+            "stars": 5099,
             "topics": [
               "35c3",
               "esp8266",
@@ -380,7 +380,7 @@
             "open_issues": 46,
             "owner": "nodemcu",
             "repo": "nodemcu-flasher",
-            "stars": 2222,
+            "stars": 2221,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:41.515Z"
@@ -453,7 +453,7 @@
             "open_issues": 36,
             "owner": "Nicholas3388",
             "repo": "LuaNode",
-            "stars": 1343,
+            "stars": 1342,
             "topics": [
               "lua",
               "script"
@@ -545,7 +545,7 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-10T11:47:40Z",
-                "open_issues": 68,
+                "open_issues": 69,
                 "owner": "1technophile",
                 "repo": "OpenMQTTGateway",
                 "stars": 4119,
@@ -586,10 +586,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-08T20:42:00Z",
-                "open_issues": 396,
+                "open_issues": 397,
                 "owner": "letscontrolit",
                 "repo": "ESPEasy",
-                "stars": 3627,
+                "stars": 3628,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:17:41.515Z"
@@ -815,7 +815,7 @@
                 "open_issues": 99,
                 "owner": "SpacehuhnTech",
                 "repo": "esp8266_deauther",
-                "stars": 15101,
+                "stars": 15103,
                 "topics": [
                   "arduino",
                   "attack",
@@ -844,10 +844,10 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-10-29T03:14:58Z",
-                "open_issues": 199,
+                "open_issues": 197,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 13069,
+                "stars": 13080,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -886,7 +886,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2023-06-02T14:03:39Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "SpacehuhnTech",
                 "repo": "WiFiDuck",
                 "stars": 3342,
@@ -1167,7 +1167,7 @@
                 "open_issues": 37,
                 "owner": "alf45tar",
                 "repo": "PedalinoMini",
-                "stars": 625,
+                "stars": 626,
                 "topics": [
                   "applemidi",
                   "ble",
@@ -1370,7 +1370,7 @@
                 "open_issues": 7,
                 "owner": "DroneBridge",
                 "repo": "ESP32",
-                "stars": 1145,
+                "stars": 1146,
                 "topics": [
                   "ardupilot",
                   "communication-systems",
@@ -1584,7 +1584,7 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-08T23:47:09Z",
-                "open_issues": 32,
+                "open_issues": 31,
                 "owner": "doudar",
                 "repo": "SmartSpin2k",
                 "stars": 292,
@@ -1640,7 +1640,7 @@
             "open_issues": 21,
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 8082,
+            "stars": 8084,
             "topics": [
               "containers",
               "cosmopolitan",
@@ -1757,7 +1757,7 @@
             "open_issues": 357,
             "owner": "vshymanskyy",
             "repo": "TinyGSM",
-            "stars": 2228,
+            "stars": 2229,
             "topics": [
               "a6",
               "a7",
@@ -1798,7 +1798,7 @@
             "open_issues": 10,
             "owner": "HomeSpan",
             "repo": "HomeSpan",
-            "stars": 2214,
+            "stars": 2216,
             "topics": [
               "arduino-ide",
               "arduino-library",
@@ -1824,10 +1824,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-11-09T16:58:51Z",
-            "open_issues": 91,
+            "open_issues": 93,
             "owner": "LedFx",
             "repo": "LedFx",
-            "stars": 2100,
+            "stars": 2101,
             "topics": [
               "audio-processing",
               "e131",
@@ -1888,7 +1888,7 @@
             "open_issues": 9,
             "owner": "schreibfaul1",
             "repo": "ESP32-audioI2S",
-            "stars": 1726,
+            "stars": 1727,
             "topics": [
               "aac",
               "cs4344",
@@ -1948,6 +1948,48 @@
         },
         {
           "node_type": "item",
+          "title": "GUIslice",
+          "description": "A drag and drop GUI framework for several devices and screen controllers. Compatible with 8266 and 32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "GUIslice drag & drop embedded GUI in C for touchscreen TFT on Arduino, Raspberry Pi, ARM, ESP8266 / ESP32 / M5stack using Adafruit-GFX / TFT_eSPI / UTFT / SDL",
+            "homepage": "https://www.impulseadventure.com/elec/guislice-gui.html",
+            "id": 69373650,
+            "language": "C",
+            "license": "MIT",
+            "last_commit": "2026-07-14T22:43:12Z",
+            "open_issues": 48,
+            "owner": "ImpulseAdventure",
+            "repo": "GUIslice",
+            "stars": 1375,
+            "topics": [
+              "adafruit-gfx",
+              "arduino",
+              "arduino-library",
+              "c",
+              "embedded",
+              "esp32",
+              "esp8266",
+              "feather",
+              "gui",
+              "linux",
+              "m5stack",
+              "mcufriend",
+              "pi",
+              "platformio",
+              "raspberry-pi",
+              "sdl",
+              "teensy",
+              "tft",
+              "tft-espi",
+              "touchscreen"
+            ]
+          },
+          "first_seen": "2026-08-28T14:17:41.515Z"
+        },
+        {
+          "node_type": "item",
           "title": "Homie8266",
           "description": "Framework implementation of the Homie protocol for the 8266.",
           "children": [],
@@ -1971,48 +2013,6 @@
               "homie",
               "iot",
               "mqtt"
-            ]
-          },
-          "first_seen": "2026-08-28T14:17:41.515Z"
-        },
-        {
-          "node_type": "item",
-          "title": "GUIslice",
-          "description": "A drag and drop GUI framework for several devices and screen controllers. Compatible with 8266 and 32.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "GUIslice drag & drop embedded GUI in C for touchscreen TFT on Arduino, Raspberry Pi, ARM, ESP8266 / ESP32 / M5stack using Adafruit-GFX / TFT_eSPI / UTFT / SDL",
-            "homepage": "https://www.impulseadventure.com/elec/guislice-gui.html",
-            "id": 69373650,
-            "language": "C",
-            "license": "MIT",
-            "last_commit": "2026-07-14T22:43:12Z",
-            "open_issues": 48,
-            "owner": "ImpulseAdventure",
-            "repo": "GUIslice",
-            "stars": 1373,
-            "topics": [
-              "adafruit-gfx",
-              "arduino",
-              "arduino-library",
-              "c",
-              "embedded",
-              "esp32",
-              "esp8266",
-              "feather",
-              "gui",
-              "linux",
-              "m5stack",
-              "mcufriend",
-              "pi",
-              "platformio",
-              "raspberry-pi",
-              "sdl",
-              "teensy",
-              "tft",
-              "tft-espi",
-              "touchscreen"
             ]
           },
           "first_seen": "2026-08-28T14:17:41.515Z"
@@ -2202,6 +2202,27 @@
         },
         {
           "node_type": "item",
+          "title": "WiFiESP",
+          "description": "Arduino library for Wifi management, client/server for 8266 board.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Arduino WiFi library for ESP8266 modules",
+            "homepage": null,
+            "id": 34266394,
+            "language": "C++",
+            "license": "GPL-3.0",
+            "last_commit": "2024-03-26T18:08:51Z",
+            "open_issues": 134,
+            "owner": "bportaluri",
+            "repo": "WiFiEsp",
+            "stars": 573,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T14:17:41.515Z"
+        },
+        {
+          "node_type": "item",
           "title": "Free802.11",
           "description": "Library to emit arbitrary 802.11 signals with the ESP32.",
           "children": [],
@@ -2224,27 +2245,6 @@
               "ieee-802-11",
               "wifi"
             ]
-          },
-          "first_seen": "2026-08-28T14:17:41.515Z"
-        },
-        {
-          "node_type": "item",
-          "title": "WiFiESP",
-          "description": "Arduino library for Wifi management, client/server for 8266 board.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Arduino WiFi library for ESP8266 modules",
-            "homepage": null,
-            "id": 34266394,
-            "language": "C++",
-            "license": "GPL-3.0",
-            "last_commit": "2024-03-26T18:08:51Z",
-            "open_issues": 134,
-            "owner": "bportaluri",
-            "repo": "WiFiEsp",
-            "stars": 572,
-            "topics": []
           },
           "first_seen": "2026-08-28T14:17:41.515Z"
         },
@@ -2656,7 +2656,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T09:15:23.171Z",
+    "last_updated": "2026-11-12T09:42:51.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "📶 A curated list of awesome ESP8266/32 projects and code",
