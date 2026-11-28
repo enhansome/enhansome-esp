@@ -16,10 +16,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-27T08:57:26Z",
-            "open_issues": 1595,
+            "open_issues": 1600,
             "owner": "micropython",
             "repo": "micropython",
-            "stars": 22238,
+            "stars": 22243,
             "topics": [
               "embedded",
               "microcontroller",
@@ -42,10 +42,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-11-25T10:17:56Z",
-            "open_issues": 459,
+            "open_issues": 460,
             "owner": "RT-Thread",
             "repo": "rt-thread",
-            "stars": 12372,
+            "stars": 12374,
             "topics": [
               "aiot",
               "arm",
@@ -106,7 +106,7 @@
             "id": 21318268,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T13:38:15Z",
+            "last_commit": "2026-11-27T15:14:13Z",
             "open_issues": 97,
             "owner": "cesanta",
             "repo": "mongoose-os",
@@ -141,7 +141,7 @@
             "open_issues": 7,
             "owner": "luc-github",
             "repo": "ESP3D",
-            "stars": 2012,
+            "stars": 2013,
             "topics": [
               "3d-printer",
               "arduino",
@@ -172,7 +172,7 @@
             "language": "C++",
             "license": "LGPL-3.0",
             "last_commit": "2026-11-12T12:32:46Z",
-            "open_issues": 85,
+            "open_issues": 87,
             "owner": "SmingHub",
             "repo": "Sming",
             "stars": 1572,
@@ -238,11 +238,11 @@
             "id": 70127218,
             "language": "C++",
             "license": "LGPL-2.1",
-            "last_commit": "2026-11-27T01:09:57Z",
-            "open_issues": 67,
+            "last_commit": "2026-11-28T00:44:09Z",
+            "open_issues": 71,
             "owner": "espressif",
             "repo": "arduino-esp32",
-            "stars": 17815,
+            "stars": 17819,
             "topics": [
               "arduino",
               "esp-idf",
@@ -267,7 +267,7 @@
             "open_issues": 411,
             "owner": "esp8266",
             "repo": "Arduino",
-            "stars": 16730,
+            "stars": 16731,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:41.515Z"
@@ -288,7 +288,7 @@
             "open_issues": 290,
             "owner": "platformio",
             "repo": "platformio-core",
-            "stars": 9638,
+            "stars": 9639,
             "topics": [
               "arduino",
               "arm",
@@ -330,7 +330,7 @@
             "open_issues": 21,
             "owner": "espressif",
             "repo": "esptool",
-            "stars": 6574,
+            "stars": 6577,
             "topics": []
           },
           "first_seen": "2026-08-28T14:17:41.515Z"
@@ -351,7 +351,7 @@
             "open_issues": 215,
             "owner": "ct-Open-Source",
             "repo": "tuya-convert",
-            "stars": 5103,
+            "stars": 5104,
             "topics": [
               "35c3",
               "esp8266",
@@ -544,8 +544,8 @@
                 "id": 68460326,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-26T14:37:50Z",
-                "open_issues": 53,
+                "last_commit": "2026-11-28T00:53:00Z",
+                "open_issues": 51,
                 "owner": "1technophile",
                 "repo": "OpenMQTTGateway",
                 "stars": 4129,
@@ -586,7 +586,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-19T12:22:33Z",
-                "open_issues": 406,
+                "open_issues": 408,
                 "owner": "letscontrolit",
                 "repo": "ESPEasy",
                 "stars": 3629,
@@ -815,7 +815,7 @@
                 "open_issues": 99,
                 "owner": "SpacehuhnTech",
                 "repo": "esp8266_deauther",
-                "stars": 15139,
+                "stars": 15140,
                 "topics": [
                   "arduino",
                   "attack",
@@ -844,10 +844,10 @@
                 "language": "C++",
                 "license": null,
                 "last_commit": "2026-11-21T03:13:40Z",
-                "open_issues": 202,
+                "open_issues": 204,
                 "owner": "justcallmekoko",
                 "repo": "ESP32Marauder",
-                "stars": 13250,
+                "stars": 13262,
                 "topics": [
                   "arduino",
                   "beacon",
@@ -1076,7 +1076,7 @@
                 "open_issues": 19,
                 "owner": "cyberman54",
                 "repo": "ESP32-Paxcounter",
-                "stars": 2132,
+                "stars": 2133,
                 "topics": [
                   "arduino",
                   "bme680",
@@ -1125,7 +1125,7 @@
                 "open_issues": 80,
                 "owner": "sle118",
                 "repo": "squeezelite-esp32",
-                "stars": 2270,
+                "stars": 2271,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:17:41.515Z"
@@ -1167,7 +1167,7 @@
                 "open_issues": 37,
                 "owner": "alf45tar",
                 "repo": "PedalinoMini",
-                "stars": 626,
+                "stars": 627,
                 "topics": [
                   "applemidi",
                   "ble",
@@ -1407,7 +1407,7 @@
                 "id": 48141669,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-27T09:39:28Z",
+                "last_commit": "2026-11-27T17:58:40Z",
                 "open_issues": 0,
                 "owner": "lyusupov",
                 "repo": "SoftRF",
@@ -1583,7 +1583,7 @@
                 "id": 290931862,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-25T17:32:04Z",
+                "last_commit": "2026-11-27T17:53:33Z",
                 "open_issues": 29,
                 "owner": "doudar",
                 "repo": "SmartSpin2k",
@@ -1640,7 +1640,7 @@
             "open_issues": 22,
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 8097,
+            "stars": 8099,
             "topics": [
               "containers",
               "cosmopolitan",
@@ -1743,35 +1743,6 @@
         },
         {
           "node_type": "item",
-          "title": "HomeSpan",
-          "description": "A robust and extremely easy-to-use Arduino library for creating your own ESP32-based HomeKit devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "HomeKit Library for the Arduino-ESP32",
-            "homepage": null,
-            "id": 280864388,
-            "language": "C++",
-            "license": "MIT",
-            "last_commit": "2026-11-26T20:17:50Z",
-            "open_issues": 13,
-            "owner": "HomeSpan",
-            "repo": "HomeSpan",
-            "stars": 2231,
-            "topics": [
-              "arduino-ide",
-              "arduino-library",
-              "esp32",
-              "home-automation",
-              "homekit",
-              "homekit-server",
-              "homespan"
-            ]
-          },
-          "first_seen": "2026-08-28T14:17:41.515Z"
-        },
-        {
-          "node_type": "item",
           "title": "TinyGSM",
           "description": "A quick and simple Arduino library for interaction with GSM modules which can also control the 8266 through AT commands.",
           "children": [],
@@ -1807,6 +1778,35 @@
               "sim900",
               "ublox",
               "xbee"
+            ]
+          },
+          "first_seen": "2026-08-28T14:17:41.515Z"
+        },
+        {
+          "node_type": "item",
+          "title": "HomeSpan",
+          "description": "A robust and extremely easy-to-use Arduino library for creating your own ESP32-based HomeKit devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "HomeKit Library for the Arduino-ESP32",
+            "homepage": null,
+            "id": 280864388,
+            "language": "C++",
+            "license": "MIT",
+            "last_commit": "2026-11-27T17:53:29Z",
+            "open_issues": 13,
+            "owner": "HomeSpan",
+            "repo": "HomeSpan",
+            "stars": 2230,
+            "topics": [
+              "arduino-ide",
+              "arduino-library",
+              "esp32",
+              "home-automation",
+              "homekit",
+              "homekit-server",
+              "homespan"
             ]
           },
           "first_seen": "2026-08-28T14:17:41.515Z"
@@ -1856,7 +1856,7 @@
             "id": 77057142,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T13:39:38Z",
+            "last_commit": "2026-11-27T15:15:29Z",
             "open_issues": 195,
             "owner": "cesanta",
             "repo": "mjs",
@@ -1884,8 +1884,8 @@
             "id": 155110539,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-27T10:00:18Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-27T13:50:29Z",
+            "open_issues": 12,
             "owner": "schreibfaul1",
             "repo": "ESP32-audioI2S",
             "stars": 1736,
@@ -2656,7 +2656,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T10:46:03.881Z",
+    "last_updated": "2026-11-28T10:14:42.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "📶 A curated list of awesome ESP8266/32 projects and code",
@@ -2668,7 +2668,7 @@
       "open_issues": 45,
       "owner": "agucova",
       "repo": "awesome-esp",
-      "stars": 2833,
+      "stars": 2836,
       "topics": [
         "arduino",
         "awesome",
